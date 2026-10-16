@@ -1,0 +1,2001 @@
+Student_ID,Age,State,Gender,Class_12_Percentage,Favourite_Subject,Data_Source_Type
+STU0001,19, KARNATAKA ,MALE,68.56,mathematics,Synthetic/Simulated
+STU0002,21,Karnataka,F,90.44,Physics,Synthetic/Simulated
+STU0003,18,Maharashtra,F,82.83,Computer Science,Synthetic/Simulated
+STU0004,17,Madhya Pradesh,Not Specified,69.22,Biology,Synthetic/Simulated
+STU0005,20,Uttar Pradesh,,80.81,Mathematics,Synthetic/Simulated
+STU0006,20,Maharashtra,FEMALE,97.2,Mathematics,Synthetic/Simulated
+STU0007,19,RAJASTHAN,Female,91.82,computer science,Synthetic/Simulated
+STU0008,20,Delhi,,73.39,Computer Science,Synthetic/Simulated
+STU0009,,Maharashtra,Male,71.59,Mathematics,Synthetic/Simulated
+STU0010,19, Uttar Pradesh ,male,78.9,Physics,Synthetic/Simulated
+STU0011,21,KARNATAKA,,76.51,Physics,Synthetic/Simulated
+STU0012,20,Bihar,Female,88.8%,,Synthetic/Simulated
+STU0013,20,Madhya Pradesh,Male,84.66%,Civil Engineering,Synthetic/Simulated
+STU0014,19,Maharashtra, Female,62.77,Mathematics,Synthetic/Simulated
+STU0015,17,Haryana,F,82.13%,electronics,Synthetic/Simulated
+STU0016,18,Madhya Pradesh, Female,76.39%,Statistics,Synthetic/Simulated
+STU0017,20,Tamil Nadu,prefer not to say,78.33,Mathematics,Synthetic/Simulated
+STU0018,20,Andhra Pradesh,male,80.24,computer science,Synthetic/Simulated
+STU0019,19,Uttar Pradesh,male,88.79,Statistics,Synthetic/Simulated
+STU0020,19,Karnataka,F,86.8,Mathematics,Synthetic/Simulated
+STU0021,18,Maharashtra,female,71.25,Computer Science,Synthetic/Simulated
+STU0022,18,Uttar Pradesh,F,77.47%,Mathematics,Synthetic/Simulated
+STU0023,21,UTTAR PRADESH,female,73.96,networking,Synthetic/Simulated
+STU0024,19,Other,FEMALE,62.86,Computer Science,Synthetic/Simulated
+STU0025,18,Maharashtra,Male,77.02,Mathematics,Synthetic/Simulated
+STU0026,19,Maharashtra,MALE,94.6%,Computer Science,Synthetic/Simulated
+STU0027,19,haryana,M,62.59%,Mathematics,Synthetic/Simulated
+STU0028,20,Maharashtra,M,77.78,Mathematics,Synthetic/Simulated
+STU0029,21, Odisha ,FEMALE,77.49,Mathematics,Synthetic/Simulated
+STU0030,19 yrs,Tamil Nadu,Male,80.59,Chemistry,Synthetic/Simulated
+STU0031,19, West Bengal ,Female,69.34,Chemistry,Synthetic/Simulated
+STU0032,19, TELANGANA , Male ,65.17,Computer Science,Synthetic/Simulated
+STU0033,19,Karnataka,male,65.59,Statistics,Synthetic/Simulated
+STU0034,19,Madhya Pradesh, Female,89.98,Mathematics,Synthetic/Simulated
+STU0035,17,Other,Female,69.16%,physics,Synthetic/Simulated
+STU0036,20,Punjab,MALE,73.5,Computer Science,Synthetic/Simulated
+STU0037,19,JHARKHAND,male,96.94%,Mathematics,Synthetic/Simulated
+STU0038,19,Tamil Nadu,MALE,71.39,Mathematics,Synthetic/Simulated
+STU0039,18,Bihar, Male ,81.08,Computer Science,Synthetic/Simulated
+STU0040,20,Bihar,M,87.57,Mathematics,Synthetic/Simulated
+STU0041,18,Madhya Pradesh,FEMALE,87.14,Electronics,Synthetic/Simulated
+STU0042,19, Bihar , Male ,66.02,mathematics,Synthetic/Simulated
+STU0043,20, TAMIL NADU , Male ,71.58,biotechnology,Synthetic/Simulated
+STU0044,19,Tamil Nadu, Female,80.72,Computer Science,Synthetic/Simulated
+STU0045,21,Uttar Pradesh,F,95.36,Statistics,Synthetic/Simulated
+STU0046,18, Gujarat ,M,71.15,Computer Science,Synthetic/Simulated
+STU0047,20,Tamil Nadu,M,73.56,Physics,Synthetic/Simulated
+STU0048,22,gujarat,female,81.78,Mathematics,Synthetic/Simulated
+STU0049,19,assam,M,83.58,Biotechnology,Synthetic/Simulated
+STU0050,20,Karnataka,M,84.12,Physics,Synthetic/Simulated
+STU0051,19,Madhya Pradesh,M,70.38%,Computer Science,Synthetic/Simulated
+STU0052,20,Madhya Pradesh,FEMALE,73.21,Physics,Synthetic/Simulated
+STU0053,21,Karnataka,F,79.94,Statistics,Synthetic/Simulated
+STU0054,20,Gujarat,female,89.36%,Civil Engineering,Synthetic/Simulated
+STU0055,21,Kerala, Male ,75.85,Biotechnology,Synthetic/Simulated
+STU0056,19,Maharashtra,MALE,77.8,Mathematics,Synthetic/Simulated
+STU0057,19 yrs,Madhya Pradesh,Female,68.77,Mathematics,Synthetic/Simulated
+STU0058,19,rajasthan,M,94.77,Mathematics,Synthetic/Simulated
+STU0059,20,Telangana, Female,79.39,physics,Synthetic/Simulated
+STU0060,21,delhi, Male ,87.7,Mathematics,Synthetic/Simulated
+STU0061,20,Jharkhand,FEMALE,78.27,Mathematics,Synthetic/Simulated
+STU0062,18, Bihar ,Male,78.77,,Synthetic/Simulated
+STU0063,19,Andhra Pradesh,male,64.5,Physics,Synthetic/Simulated
+STU0064,20,Madhya Pradesh, Male ,58.64,,Synthetic/Simulated
+STU0065,21,West Bengal, Female,89.27,,Synthetic/Simulated
+STU0066,18 yrs,HARYANA, Female,78.7,Physics,Synthetic/Simulated
+STU0067,18,Rajasthan, Female,79.86,physics,Synthetic/Simulated
+STU0068,19,assam,MALE,66.76,Computer Science,Synthetic/Simulated
+STU0069,18,UTTAR PRADESH,Female,69.87,Computer Science,Synthetic/Simulated
+STU0070,22 yrs,Madhya Pradesh, Male ,87.56,Electronics,Synthetic/Simulated
+STU0071,,Bihar,male,93.66,statistics,Synthetic/Simulated
+STU0072,19,Chhattisgarh,female,72.41%,Physics,Synthetic/Simulated
+STU0073,18, Uttar Pradesh ,F,84.04,Computer Science,Synthetic/Simulated
+STU0074,19, ANDHRA PRADESH , Female,79.71,computer science,Synthetic/Simulated
+STU0075,22,Maharashtra, Male ,76.92,Physics,Synthetic/Simulated
+STU0076,19,Telangana,Prefer not to say,94.67%,Statistics,Synthetic/Simulated
+STU0077,17,Bihar, Female,73.92,Computer Science,Synthetic/Simulated
+STU0078,18,Maharashtra,Prefer not to say,89.17,Physics,Synthetic/Simulated
+STU0079,22,Karnataka,female,81.43,Mechanical Engineering,Synthetic/Simulated
+STU0080,22, Karnataka ,,77.85,Computer Science,Synthetic/Simulated
+STU0081,18,Bihar,Male,90.35,Physics,Synthetic/Simulated
+STU0082,19,Uttar Pradesh,M,,Electronics,Synthetic/Simulated
+STU0083,18,Maharashtra,female,77.13,Computer Science,Synthetic/Simulated
+STU0084,19,Punjab, Male ,90.41%,Computer Science,Synthetic/Simulated
+STU0085,18,,Male,89.24,Computer Science,Synthetic/Simulated
+STU0086,20,Andhra Pradesh,MALE,88.82,computer science,Synthetic/Simulated
+STU0087,21,Karnataka,MALE,45.0,Chemistry,Synthetic/Simulated
+STU0088,18,kerala,FEMALE,81.96,Electronics,Synthetic/Simulated
+STU0089,19,maharashtra, Female,79.91,Mathematics,Synthetic/Simulated
+STU0090,18,Bihar, Male ,77.69,Physics,Synthetic/Simulated
+STU0091,19, Tamil Nadu ,M,83.49,Mathematics,Synthetic/Simulated
+STU0092,18,Madhya Pradesh,F,80.35%,Chemistry,Synthetic/Simulated
+STU0093,18,MAHARASHTRA,F,84.1%,Physics,Synthetic/Simulated
+STU0094,22, Tamil Nadu ,FEMALE,75.59%,Mathematics,Synthetic/Simulated
+STU0095,18,Odisha, Male ,91.48,Statistics,Synthetic/Simulated
+STU0096,20,Tamil Nadu,FEMALE,85.01,Civil Engineering,Synthetic/Simulated
+STU0097,18,Madhya Pradesh,F,82.88,Mathematics,Synthetic/Simulated
+STU0098,19,Delhi, Female,82.44,Computer Science,Synthetic/Simulated
+STU0099,19,Maharashtra,male,88.42,Mathematics,Synthetic/Simulated
+STU0100,21 yrs,Uttar Pradesh,Male,87.2,Mathematics,Synthetic/Simulated
+STU0101,18,Delhi,,76.99,Networking,Synthetic/Simulated
+STU0102,18, Telangana ,F,86.91%,Biology,Synthetic/Simulated
+STU0103,20,Haryana,FEMALE,79.57,Statistics,Synthetic/Simulated
+STU0104,20,Andhra Pradesh,male,95.25,mathematics,Synthetic/Simulated
+STU0105,20,Tamil Nadu, Male ,87.88%,Statistics,Synthetic/Simulated
+STU0106,17,Uttar Pradesh,MALE,72.37,biology,Synthetic/Simulated
+STU0107,18,Uttar Pradesh,M,98.98,Mathematics,Synthetic/Simulated
+STU0108,20,Punjab,FEMALE,59.08%,Statistics,Synthetic/Simulated
+STU0109,19,Odisha,F,83.74,Computer Science,Synthetic/Simulated
+STU0110,,Rajasthan,Female,71.73,Computer Science,Synthetic/Simulated
+STU0111,19,Rajasthan,Male,94.94,mathematics,Synthetic/Simulated
+STU0112,18 yrs,Uttar Pradesh,FEMALE,80.28,Mathematics,Synthetic/Simulated
+STU0113,21,Uttar Pradesh,male,70.86,Mathematics,Synthetic/Simulated
+STU0114,20,odisha, Female,75.6,Mathematics,Synthetic/Simulated
+STU0115,18,madhya pradesh,M,71.57,Mathematics,Synthetic/Simulated
+STU0116,21,Gujarat, Female,75.25,Mathematics,Synthetic/Simulated
+STU0117,19,Punjab,Female,75.04,Mathematics,Synthetic/Simulated
+STU0118,19,Bihar,male,71.24,Chemistry,Synthetic/Simulated
+STU0119,19, GUJARAT ,female,80.43%,Mathematics,Synthetic/Simulated
+STU0120,20,Uttar Pradesh, Female,81.52,Mathematics,Synthetic/Simulated
+STU0121,19,Madhya Pradesh,Female,69.03,,Synthetic/Simulated
+STU0122,19,UTTAR PRADESH, Male ,63.08,Mathematics,Synthetic/Simulated
+STU0123,20,Madhya Pradesh,FEMALE,80.8,physics,Synthetic/Simulated
+STU0124,18,Maharashtra,male,82.79,Electronics,Synthetic/Simulated
+STU0125,21 yrs,Maharashtra,,84.57,physics,Synthetic/Simulated
+STU0126,19,UTTAR PRADESH,MALE,82.96,physics,Synthetic/Simulated
+STU0127,19,Madhya Pradesh,Female,92.15,Computer Science,Synthetic/Simulated
+STU0128,20, Punjab ,male,86.97,computer science,Synthetic/Simulated
+STU0129,19 yrs,MAHARASHTRA,F,,Computer Science,Synthetic/Simulated
+STU0130,19,rajasthan,M,99.9,physics,Synthetic/Simulated
+STU0131,20,ODISHA,Male,62.18%,Physics,Synthetic/Simulated
+STU0132,21,Madhya Pradesh,,58.23,mathematics,Synthetic/Simulated
+STU0133,20, bihar , Female,77.93,mechanical engineering,Synthetic/Simulated
+STU0134,20,Kerala,Male,82.54,Computer Science,Synthetic/Simulated
+STU0135,18,Bihar, Male ,,Mechanical Engineering,Synthetic/Simulated
+STU0136,19, maharashtra ,Male,84.33,Computer Science,Synthetic/Simulated
+STU0137,19,Telangana,M,75.57,Networking,Synthetic/Simulated
+STU0138,18,Karnataka,MALE,71.75,Mathematics,Synthetic/Simulated
+STU0139,20,Rajasthan,M,73.11,computer science,Synthetic/Simulated
+STU0140,19,Madhya Pradesh,,76.2,Physics,Synthetic/Simulated
+STU0141,19,Madhya Pradesh,,85.59,mathematics,Synthetic/Simulated
+STU0142,18,kerala,Male,73.62%,Mathematics,Synthetic/Simulated
+STU0143,19,Uttar Pradesh,male,75.4,computer science,Synthetic/Simulated
+STU0144,19,Maharashtra,female,83.13,Physics,Synthetic/Simulated
+STU0145,19,Bihar,FEMALE,76.21,Mathematics,Synthetic/Simulated
+STU0146,19,Haryana,FEMALE,88.05,Mathematics,Synthetic/Simulated
+STU0147,18,Madhya Pradesh,F,69.72,Computer Science,Synthetic/Simulated
+STU0148,18,Madhya Pradesh,male,67.77%,Mathematics,Synthetic/Simulated
+STU0149,20,Gujarat,F,80.74,Electronics,Synthetic/Simulated
+STU0150,,Karnataka, Male ,81.64,Mathematics,Synthetic/Simulated
+STU0151,19,Gujarat,female,70.22,Statistics,Synthetic/Simulated
+STU0152,19, Jharkhand , Male ,90.09,Mathematics,Synthetic/Simulated
+STU0153,19,Madhya Pradesh,Male,95.32%,Computer Science,Synthetic/Simulated
+STU0154,21,Rajasthan,,72.35,Mechanical Engineering,Synthetic/Simulated
+STU0155,19,RAJASTHAN,MALE,91.39,Computer Science,Synthetic/Simulated
+STU0156,22, Rajasthan ,female,56.56,Mathematics,Synthetic/Simulated
+STU0157,20,Bihar,,87.69,Statistics,Synthetic/Simulated
+STU0158,18,Andhra Pradesh,MALE,70.28,Civil Engineering,Synthetic/Simulated
+STU0159,18,Uttar Pradesh,Female,86.78,Biology,Synthetic/Simulated
+STU0160,19,Telangana,PNS,69.35,Statistics,Synthetic/Simulated
+STU0161,19,Maharashtra, Female,77.38,Mathematics,Synthetic/Simulated
+STU0162,19, West Bengal ,Male,70.71,Computer Science,Synthetic/Simulated
+STU0163,18,rajasthan,FEMALE,76.08,Statistics,Synthetic/Simulated
+STU0164,18, Bihar ,male,94.47,Physics,Synthetic/Simulated
+STU0165,19,Madhya Pradesh,female,,physics,Synthetic/Simulated
+STU0166,,Punjab,Female,96.99,Electronics,Synthetic/Simulated
+STU0167,20,,male,74.53,computer science,Synthetic/Simulated
+STU0168,22,Kerala,Not Specified,91.43,Statistics,Synthetic/Simulated
+STU0169,18,Jharkhand,Female,63.37%,Statistics,Synthetic/Simulated
+STU0170,19,maharashtra, Male ,75.42,Mathematics,Synthetic/Simulated
+STU0171,21,Bihar,Male,73.18,Statistics,Synthetic/Simulated
+STU0172,20,Uttar Pradesh,Male,91.84,physics,Synthetic/Simulated
+STU0173,19,Jharkhand, Female,79.67,computer science,Synthetic/Simulated
+STU0174,19, Maharashtra ,MALE,59.21,Networking,Synthetic/Simulated
+STU0175,18,Maharashtra,M,66.21,Physics,Synthetic/Simulated
+STU0176,21,Karnataka,F,68.89,Mathematics,Synthetic/Simulated
+STU0177,19,, Female,86.41,Mathematics,Synthetic/Simulated
+STU0178,19,Telangana,MALE,85.25,Mathematics,Synthetic/Simulated
+STU0179,19,Uttar Pradesh,female,75.3,Mathematics,Synthetic/Simulated
+STU0180,19, Tamil Nadu , Female,73.06%,Biology,Synthetic/Simulated
+STU0181,18,Odisha,F,84.45,Mathematics,Synthetic/Simulated
+STU0182,20,WEST BENGAL,MALE,67.83,Computer Science,Synthetic/Simulated
+STU0183,19,Maharashtra,Male,82.12%,Physics,Synthetic/Simulated
+STU0184,18, Madhya Pradesh ,MALE,81.35,Statistics,Synthetic/Simulated
+STU0185,19,Madhya Pradesh,MALE,75.53,,Synthetic/Simulated
+STU0186,21,Madhya Pradesh,F,81.58,Physics,Synthetic/Simulated
+STU0187,19,West Bengal,F,78.92,Physics,Synthetic/Simulated
+STU0188,19,Rajasthan,female,82.48,Mathematics,Synthetic/Simulated
+STU0189,19,Uttar Pradesh,female,,Biotechnology,Synthetic/Simulated
+STU0190,20,, Female,83.53,Statistics,Synthetic/Simulated
+STU0191,20,Punjab,Male,87.24%,Mathematics,Synthetic/Simulated
+STU0192,20,Madhya Pradesh,female,80.89,Computer Science,Synthetic/Simulated
+STU0193,18,Uttar Pradesh,F,83.41%,Computer Science,Synthetic/Simulated
+STU0194,21,Gujarat,FEMALE,77.01%,Mathematics,Synthetic/Simulated
+STU0195,21,Madhya Pradesh, Female,86.02,Mathematics,Synthetic/Simulated
+STU0196,19, Haryana ,female,78.59,Mathematics,Synthetic/Simulated
+STU0197,19,Madhya Pradesh,FEMALE,67.67,,Synthetic/Simulated
+STU0198,18,Karnataka,FEMALE,85.38%,Statistics,Synthetic/Simulated
+STU0199,19,Tamil Nadu,male,63.29,Physics,Synthetic/Simulated
+STU0200,18,Andhra Pradesh,Male,80.55,Computer Science,Synthetic/Simulated
+STU0201,17,Tamil Nadu,Male,74.54,Statistics,Synthetic/Simulated
+STU0202,22,Telangana, Male ,73.97,Networking,Synthetic/Simulated
+STU0203,18,,Male,79.55,mathematics,Synthetic/Simulated
+STU0204,19,Bihar, Male ,71.62,Computer Science,Synthetic/Simulated
+STU0205,19,Karnataka,M,82.61,mathematics,Synthetic/Simulated
+STU0206,19,west bengal,male,78.51,Mathematics,Synthetic/Simulated
+STU0207,19,Bihar,FEMALE,72.44%,Mathematics,Synthetic/Simulated
+STU0208,19,maharashtra, Female,90.04%,Civil Engineering,Synthetic/Simulated
+STU0209,19,UTTAR PRADESH,Female,79.84,physics,Synthetic/Simulated
+STU0210,21, RAJASTHAN , Female,83.68%,Mathematics,Synthetic/Simulated
+STU0211,19 yrs,Madhya Pradesh, Male ,90.75,Biotechnology,Synthetic/Simulated
+STU0212,22,Gujarat,Female,90.6,Mathematics,Synthetic/Simulated
+STU0213,20 yrs,Madhya Pradesh,Male,83.22,Computer Science,Synthetic/Simulated
+STU0214,19,West Bengal,male,75.28,Statistics,Synthetic/Simulated
+STU0215,18,Karnataka,MALE,65.13,Biotechnology,Synthetic/Simulated
+STU0216,18,West Bengal,female,79.86,Biotechnology,Synthetic/Simulated
+STU0217,20,karnataka,female,87.85%,Computer Science,Synthetic/Simulated
+STU0218,19,Madhya Pradesh,Female,,Computer Science,Synthetic/Simulated
+STU0219,19,Madhya Pradesh,Not Specified,47.0,Computer Science,Synthetic/Simulated
+STU0220,20, Karnataka ,Male,85.83,Electronics,Synthetic/Simulated
+STU0221,19,Andhra Pradesh,MALE,86.38,mathematics,Synthetic/Simulated
+STU0222,20,Karnataka, Male ,75.29,Electronics,Synthetic/Simulated
+STU0223,19,Tamil Nadu,male,86.9,physics,Synthetic/Simulated
+STU0224,21, Karnataka ,MALE,83.65,Mathematics,Synthetic/Simulated
+STU0225,18,TELANGANA,female,71.83,Mathematics,Synthetic/Simulated
+STU0226,18,Karnataka, Female,89.44,Computer Science,Synthetic/Simulated
+STU0227,20,Telangana,female,66.59,Physics,Synthetic/Simulated
+STU0228,18,Madhya Pradesh,M,77.48,Mathematics,Synthetic/Simulated
+STU0229,21,Madhya Pradesh,MALE,76.59,Physics,Synthetic/Simulated
+STU0230,20,Rajasthan,Male,70.57,Physics,Synthetic/Simulated
+STU0231,18, Bihar ,male,80.73,Computer Science,Synthetic/Simulated
+STU0232,18,Telangana,MALE,89.79,Physics,Synthetic/Simulated
+STU0233,21,Uttar Pradesh,,89.23,Networking,Synthetic/Simulated
+STU0234,19,Uttar Pradesh,female,84.51,mechanical engineering,Synthetic/Simulated
+STU0235,21,Andhra Pradesh,Male,62.74,Computer Science,Synthetic/Simulated
+STU0236,18,UTTAR PRADESH,Male,65.98,Mathematics,Synthetic/Simulated
+STU0237,21,Kerala,,,Electronics,Synthetic/Simulated
+STU0238,19, maharashtra ,FEMALE,77.69,Mathematics,Synthetic/Simulated
+STU0239,20,Rajasthan,Male,73.52,Computer Science,Synthetic/Simulated
+STU0240,19,rajasthan,male,95.15,Mathematics,Synthetic/Simulated
+STU0241,18,Uttar Pradesh,male,78.95%,Statistics,Synthetic/Simulated
+STU0242,21,Madhya Pradesh,female,,Computer Science,Synthetic/Simulated
+STU0243,22,Uttar Pradesh,MALE,86.89,statistics,Synthetic/Simulated
+STU0244,19,Uttar Pradesh,Male,78.49,Mathematics,Synthetic/Simulated
+STU0245,21,Uttar Pradesh,MALE,99.9,Mathematics,Synthetic/Simulated
+STU0246,18,Andhra Pradesh,M,69.54%,Statistics,Synthetic/Simulated
+STU0247,18,MADHYA PRADESH,Male,72.55,Mathematics,Synthetic/Simulated
+STU0248,18 yrs, Rajasthan ,MALE,69.51,physics,Synthetic/Simulated
+STU0249,19,madhya pradesh,Male,92.06,Mathematics,Synthetic/Simulated
+STU0250,18,Haryana,F,85.22,Mathematics,Synthetic/Simulated
+STU0251,19,Andhra Pradesh, Female,73.1,Civil Engineering,Synthetic/Simulated
+STU0252,18 yrs,Delhi,female,70.23,Mathematics,Synthetic/Simulated
+STU0253,20,Chhattisgarh,MALE,90.46,Mathematics,Synthetic/Simulated
+STU0254,20,Uttar Pradesh,F,81.26,Computer Science,Synthetic/Simulated
+STU0255,20 yrs,karnataka,F,90.69,computer science,Synthetic/Simulated
+STU0256,18,Uttar Pradesh,Male,77.46,Chemistry,Synthetic/Simulated
+STU0257,20, Jharkhand ,Male,82.6,Mathematics,Synthetic/Simulated
+STU0258,18,GUJARAT,female,80.7,Computer Science,Synthetic/Simulated
+STU0259,20,Rajasthan,Female,72.38,Computer Science,Synthetic/Simulated
+STU0260,19,Chhattisgarh,MALE,76.7,Mathematics,Synthetic/Simulated
+STU0261,19,Kerala,FEMALE,67.34,mathematics,Synthetic/Simulated
+STU0262,18,Assam,MALE,82.45,Mathematics,Synthetic/Simulated
+STU0263,20,Madhya Pradesh, Male ,84.85,Mathematics,Synthetic/Simulated
+STU0264,21,Uttar Pradesh,FEMALE,86.91,Mathematics,Synthetic/Simulated
+STU0265,20,Uttar Pradesh,Male,84.0,Mathematics,Synthetic/Simulated
+STU0266,21,Gujarat,,76.85,Computer Science,Synthetic/Simulated
+STU0267,21,Gujarat,MALE,91.97,Computer Science,Synthetic/Simulated
+STU0268,18,Uttar Pradesh,F,86.03,Computer Science,Synthetic/Simulated
+STU0269,20,andhra pradesh,F,90.5,mathematics,Synthetic/Simulated
+STU0270,19,Uttar Pradesh,F,91.06,Mathematics,Synthetic/Simulated
+STU0271,19,Karnataka,male,,Computer Science,Synthetic/Simulated
+STU0272,18,Odisha, Female,81.49,Mathematics,Synthetic/Simulated
+STU0273,22,West Bengal,FEMALE,84.97,Mathematics,Synthetic/Simulated
+STU0274,20,Rajasthan,female,67.66,Physics,Synthetic/Simulated
+STU0275,18,Maharashtra,M,67.86,chemistry,Synthetic/Simulated
+STU0276,19 yrs,Maharashtra,FEMALE,66.31,Mathematics,Synthetic/Simulated
+STU0277,19,Telangana,male,77.03,Statistics,Synthetic/Simulated
+STU0278,20, Gujarat ,Male,75.0,Mechanical Engineering,Synthetic/Simulated
+STU0279,21,Madhya Pradesh,M,,Computer Science,Synthetic/Simulated
+STU0280,19,Delhi,male,,statistics,Synthetic/Simulated
+STU0281,19,Karnataka,Female,77.14,Computer Science,Synthetic/Simulated
+STU0282,19 yrs,Kerala,M,88.64,Physics,Synthetic/Simulated
+STU0283,19,Gujarat, Male ,96.12,Statistics,Synthetic/Simulated
+STU0284,19,PUNJAB,F,82.11,Statistics,Synthetic/Simulated
+STU0285,18,Maharashtra, Male ,71.73%,Physics,Synthetic/Simulated
+STU0286,18, Maharashtra , Female,83.82,Physics,Synthetic/Simulated
+STU0287,19,Jharkhand, Male ,78.08,Computer Science,Synthetic/Simulated
+STU0288,21,jharkhand,MALE,75.84%,mathematics,Synthetic/Simulated
+STU0289,19,bihar,MALE,70.25,Mathematics,Synthetic/Simulated
+STU0290,18,Maharashtra, Female,73.82,mathematics,Synthetic/Simulated
+STU0291,20,Uttar Pradesh,Male,76.4,Computer Science,Synthetic/Simulated
+STU0292,21,telangana, Male ,85.24%,mathematics,Synthetic/Simulated
+STU0293,19,Kerala,female,82.6,Computer Science,Synthetic/Simulated
+STU0294,17,Rajasthan, Male ,94.43,mathematics,Synthetic/Simulated
+STU0295,20, Madhya Pradesh ,MALE,84.07,mathematics,Synthetic/Simulated
+STU0296,19,TAMIL NADU,MALE,81.82,Computer Science,Synthetic/Simulated
+STU0297,20, telangana ,PNS,,Mathematics,Synthetic/Simulated
+STU0298,18 yrs,Gujarat,female,68.66%,Computer Science,Synthetic/Simulated
+STU0299,,West Bengal,F,72.87,Statistics,Synthetic/Simulated
+STU0300,19,DELHI,Female,71.7%,physics,Synthetic/Simulated
+STU0301,20,Uttar Pradesh,Female,54.95,Mathematics,Synthetic/Simulated
+STU0302,19,West Bengal,Male,68.92,Mathematics,Synthetic/Simulated
+STU0303,18,Tamil Nadu,MALE,92.42%,Physics,Synthetic/Simulated
+STU0304,19, BIHAR ,Female,81.32,Mathematics,Synthetic/Simulated
+STU0305,20,Odisha,M,74.61,Statistics,Synthetic/Simulated
+STU0306,,West Bengal,F,81.59%,Physics,Synthetic/Simulated
+STU0307,20,Bihar,,60.42,,Synthetic/Simulated
+STU0308,20,Maharashtra,male,80.54,Physics,Synthetic/Simulated
+STU0309,19,Karnataka,M,89.5,Computer Science,Synthetic/Simulated
+STU0310,22,Maharashtra,female,76.91,Mathematics,Synthetic/Simulated
+STU0311,21,MADHYA PRADESH,MALE,62.05,Electronics,Synthetic/Simulated
+STU0312,19,Bihar,M,74.27%,Mathematics,Synthetic/Simulated
+STU0313,18,West Bengal,female,89.51,statistics,Synthetic/Simulated
+STU0314,19,Other,Male,80.33,Computer Science,Synthetic/Simulated
+STU0315,18,,MALE,65.24%,Mathematics,Synthetic/Simulated
+STU0316,19, Kerala ,,99.31,statistics,Synthetic/Simulated
+STU0317,21,Rajasthan, Male ,66.72,Physics,Synthetic/Simulated
+STU0318,20,BIHAR,Male,,biology,Synthetic/Simulated
+STU0319,19,Delhi,MALE,68.66,Statistics,Synthetic/Simulated
+STU0320,19, Gujarat ,MALE,68.68,Mathematics,Synthetic/Simulated
+STU0321,18, ANDHRA PRADESH ,MALE,73.93%,computer science,Synthetic/Simulated
+STU0322,19,BIHAR,FEMALE,83.73,mathematics,Synthetic/Simulated
+STU0323,18,Uttar Pradesh, Female,89.61%,Computer Science,Synthetic/Simulated
+STU0324,21, West Bengal ,female,74.52,Mechanical Engineering,Synthetic/Simulated
+STU0325,20 yrs,MAHARASHTRA,FEMALE,68.91,Mathematics,Synthetic/Simulated
+STU0326,18,Madhya Pradesh,,82.31,Physics,Synthetic/Simulated
+STU0327,20,Uttar Pradesh,MALE,82.57,Mathematics,Synthetic/Simulated
+STU0328,19, Maharashtra ,F,80.16,mechanical engineering,Synthetic/Simulated
+STU0329,20,rajasthan,F,80.48,Mathematics,Synthetic/Simulated
+STU0330,,JHARKHAND,M,76.99,Statistics,Synthetic/Simulated
+STU0331,, rajasthan ,FEMALE,78.88,Chemistry,Synthetic/Simulated
+STU0332,19,Kerala,male,76.37,Statistics,Synthetic/Simulated
+STU0333,18,Bihar,,87.63,Biotechnology,Synthetic/Simulated
+STU0334,19,Madhya Pradesh,Female,98.06,Computer Science,Synthetic/Simulated
+STU0335,18,Maharashtra, Female,79.62,Mathematics,Synthetic/Simulated
+STU0336,20, Haryana ,MALE,77.94,Physics,Synthetic/Simulated
+STU0337,20, West Bengal ,F,80.3,Computer Science,Synthetic/Simulated
+STU0338,18,HARYANA,,72.08,Biology,Synthetic/Simulated
+STU0339,19,Uttar Pradesh,male,84.88,mathematics,Synthetic/Simulated
+STU0340,20,Karnataka,MALE,81.97,Computer Science,Synthetic/Simulated
+STU0341,18,Telangana, Female,,Mathematics,Synthetic/Simulated
+STU0342,19,Delhi,MALE,,computer science,Synthetic/Simulated
+STU0343,20,Madhya Pradesh,FEMALE,78.17,Statistics,Synthetic/Simulated
+STU0344,19,punjab,M,69.27%,Mathematics,Synthetic/Simulated
+STU0345,20,Rajasthan, Male ,81.16,Statistics,Synthetic/Simulated
+STU0346,,Kerala,Female,80.13,Mathematics,Synthetic/Simulated
+STU0347,19,Bihar,F,86.64,Computer Science,Synthetic/Simulated
+STU0348,18, west bengal , Female,85.48,mathematics,Synthetic/Simulated
+STU0349,17,Rajasthan,male,77.02%,Mathematics,Synthetic/Simulated
+STU0350,18,Kerala,F,73.75%,Computer Science,Synthetic/Simulated
+STU0351,21,Uttar Pradesh,,78.02,,Synthetic/Simulated
+STU0352,21, Bihar ,M,81.27%,computer science,Synthetic/Simulated
+STU0353,20,WEST BENGAL,MALE,82.35,mathematics,Synthetic/Simulated
+STU0354,18 yrs,Telangana,,80.71,Mathematics,Synthetic/Simulated
+STU0355,19,Gujarat,female,77.18,physics,Synthetic/Simulated
+STU0356,20,Karnataka,F,86.97,Physics,Synthetic/Simulated
+STU0357,20, Bihar ,male,71.93%,Mathematics,Synthetic/Simulated
+STU0358,18,tamil nadu,F,99.9,Statistics,Synthetic/Simulated
+STU0359,21,Karnataka,M,84.87,Physics,Synthetic/Simulated
+STU0360,18,Karnataka,Prefer not to say,67.85,Physics,Synthetic/Simulated
+STU0361,18,Kerala,Female,79.67,Computer Science,Synthetic/Simulated
+STU0362,21 yrs,Bihar,Male,84.95,Computer Science,Synthetic/Simulated
+STU0363,19,MAHARASHTRA,female,74.86,Physics,Synthetic/Simulated
+STU0364,19,,MALE,64.54,Physics,Synthetic/Simulated
+STU0365,19,Madhya Pradesh,prefer not to say,68.65,Mathematics,Synthetic/Simulated
+STU0366,22,Maharashtra,M,82.88,Mathematics,Synthetic/Simulated
+STU0367,18,Andhra Pradesh, Male ,,Statistics,Synthetic/Simulated
+STU0368,20,GUJARAT,Female,64.96,Mathematics,Synthetic/Simulated
+STU0369,19 yrs,Bihar,male,82.83,Mathematics,Synthetic/Simulated
+STU0370,18, delhi ,female,76.0,Computer Science,Synthetic/Simulated
+STU0371,19,Uttar Pradesh,male,71.74,mathematics,Synthetic/Simulated
+STU0372,19, Madhya Pradesh , Female,73.55,,Synthetic/Simulated
+STU0373,18,Madhya Pradesh, Female,64.76,Mathematics,Synthetic/Simulated
+STU0374,19,Uttar Pradesh,Female,82.36,Statistics,Synthetic/Simulated
+STU0375,19 yrs,Karnataka, Female,70.74,Physics,Synthetic/Simulated
+STU0376,19,Telangana,Female,73.18,physics,Synthetic/Simulated
+STU0377,20,West Bengal, Female,81.12,Mathematics,Synthetic/Simulated
+STU0378,20,Uttar Pradesh, Male ,75.69,physics,Synthetic/Simulated
+STU0379,19,Bihar, Male ,71.66,,Synthetic/Simulated
+STU0380,19,Madhya Pradesh,Female,60.1,Chemistry,Synthetic/Simulated
+STU0381,19,Karnataka,M,81.31,Physics,Synthetic/Simulated
+STU0382,19, Tamil Nadu ,Female,78.71,Computer Science,Synthetic/Simulated
+STU0383,18,Madhya Pradesh,M,73.34,Mathematics,Synthetic/Simulated
+STU0384,19 yrs,Andhra Pradesh,female,68.66,Physics,Synthetic/Simulated
+STU0385,18,Telangana,male,78.11,Physics,Synthetic/Simulated
+STU0386,19,Uttar Pradesh,Female,82.32,Mathematics,Synthetic/Simulated
+STU0387,22,Tamil Nadu,F,78.88,Biotechnology,Synthetic/Simulated
+STU0388,19,west bengal,M,92.74,Computer Science,Synthetic/Simulated
+STU0389,19,Maharashtra,M,84.34%,Computer Science,Synthetic/Simulated
+STU0390,19,Maharashtra,male,77.03,mathematics,Synthetic/Simulated
+STU0391,20,Karnataka,Female,84.64,mathematics,Synthetic/Simulated
+STU0392,19,HARYANA,MALE,78.44,Mathematics,Synthetic/Simulated
+STU0393,19,West Bengal,M,78.41,Physics,Synthetic/Simulated
+STU0394,20,West Bengal,F,89.67,biology,Synthetic/Simulated
+STU0395,18,tamil nadu,FEMALE,69.92,Physics,Synthetic/Simulated
+STU0396,19, Gujarat ,Female,78.21,Mathematics,Synthetic/Simulated
+STU0397,19,Madhya Pradesh,F,88.71,Mathematics,Synthetic/Simulated
+STU0398,20,Rajasthan,Female,80.78%,Computer Science,Synthetic/Simulated
+STU0399,22,Chhattisgarh,F,74.68,Physics,Synthetic/Simulated
+STU0400,20,Andhra Pradesh, Male ,62.64,Electronics,Synthetic/Simulated
+STU0401,19,Haryana,M,57.57,,Synthetic/Simulated
+STU0402,18,Maharashtra, Male ,96.69,Networking,Synthetic/Simulated
+STU0403,19,BIHAR,Male,80.78,Mathematics,Synthetic/Simulated
+STU0404,20,WEST BENGAL,F,72.74,physics,Synthetic/Simulated
+STU0405,21, maharashtra ,male,81.15,Networking,Synthetic/Simulated
+STU0406,20,Maharashtra,male,69.47,Computer Science,Synthetic/Simulated
+STU0407,18,Andhra Pradesh,MALE,75.02,Statistics,Synthetic/Simulated
+STU0408,20,KARNATAKA,female,69.53,Statistics,Synthetic/Simulated
+STU0409,21,Tamil Nadu, Male ,65.28,Computer Science,Synthetic/Simulated
+STU0410,,Uttar Pradesh,male,59.06%,Mathematics,Synthetic/Simulated
+STU0411,20,Bihar,male,63.62,mathematics,Synthetic/Simulated
+STU0412,19,Madhya Pradesh,male,87.19,Physics,Synthetic/Simulated
+STU0413,19,Maharashtra,M,69.12,mathematics,Synthetic/Simulated
+STU0414,19,Bihar,MALE,82.81,computer science,Synthetic/Simulated
+STU0415,18,Uttar Pradesh,Male,86.61,Physics,Synthetic/Simulated
+STU0416,20,Assam,MALE,78.15,statistics,Synthetic/Simulated
+STU0417,21,Gujarat,,75.31,Mathematics,Synthetic/Simulated
+STU0418,20,Madhya Pradesh,F,,,Synthetic/Simulated
+STU0419,19,Madhya Pradesh,M,74.25,Physics,Synthetic/Simulated
+STU0420,18,Karnataka,female,88.84,networking,Synthetic/Simulated
+STU0421,19,Maharashtra,female,94.89,Mathematics,Synthetic/Simulated
+STU0422,20,Maharashtra, Female,91.05,Computer Science,Synthetic/Simulated
+STU0423,20,,M,58.64,Mathematics,Synthetic/Simulated
+STU0424,21,Uttar Pradesh,Female,,,Synthetic/Simulated
+STU0425,19,Tamil Nadu,FEMALE,78.04,Mathematics,Synthetic/Simulated
+STU0426,19,Bihar,F,82.17,Statistics,Synthetic/Simulated
+STU0427,20, Madhya Pradesh ,Male,62.45,Mathematics,Synthetic/Simulated
+STU0428,18,ANDHRA PRADESH,Male,62.31,statistics,Synthetic/Simulated
+STU0429,21,Gujarat,prefer not to say,89.76%,Computer Science,Synthetic/Simulated
+STU0430,19,Tamil Nadu,FEMALE,72.97,Mathematics,Synthetic/Simulated
+STU0431,17,Madhya Pradesh,Female,64.61,Mathematics,Synthetic/Simulated
+STU0432,17, Tamil Nadu , Male ,68.07,Statistics,Synthetic/Simulated
+STU0433,21,Uttar Pradesh,Female,,chemistry,Synthetic/Simulated
+STU0434,20, Bihar ,Other,70.6%,Mathematics,Synthetic/Simulated
+STU0435,20,Uttar Pradesh, Male ,80.17,Mathematics,Synthetic/Simulated
+STU0436,20,Other,Male,69.19,Computer Science,Synthetic/Simulated
+STU0437,19,Uttar Pradesh,female,62.3,Mathematics,Synthetic/Simulated
+STU0438,20,Chhattisgarh,Female,90.82,mechanical engineering,Synthetic/Simulated
+STU0439,21,Chhattisgarh, Male ,81.58%,Chemistry,Synthetic/Simulated
+STU0440,18,Gujarat,Female,75.0,civil engineering,Synthetic/Simulated
+STU0441,20,Uttar Pradesh,Male,73.31,Mathematics,Synthetic/Simulated
+STU0442,19,Rajasthan,Male,91.18,Computer Science,Synthetic/Simulated
+STU0443,19,Delhi, Female,83.32,Biotechnology,Synthetic/Simulated
+STU0444,19,Tamil Nadu,Female,88.32,mathematics,Synthetic/Simulated
+STU0445,20, Bihar ,MALE,72.75,Statistics,Synthetic/Simulated
+STU0446,17,Madhya Pradesh,FEMALE,78.46,Biology,Synthetic/Simulated
+STU0447,19,Kerala, Male ,81.62,Networking,Synthetic/Simulated
+STU0448,20,madhya pradesh,male,73.05,Civil Engineering,Synthetic/Simulated
+STU0449,18,Madhya Pradesh,MALE,77.14,Physics,Synthetic/Simulated
+STU0450,20,,F,72.75,mathematics,Synthetic/Simulated
+STU0451,21 yrs,Gujarat,FEMALE,81.59,Physics,Synthetic/Simulated
+STU0452,18,Jharkhand,M,66.11,Mathematics,Synthetic/Simulated
+STU0453,18, andhra pradesh , Male ,83.15,chemistry,Synthetic/Simulated
+STU0454,22,maharashtra,male,80.8%,Computer Science,Synthetic/Simulated
+STU0455,18,Rajasthan,M,76.17%,Computer Science,Synthetic/Simulated
+STU0456,18,ANDHRA PRADESH,M,82.05,Physics,Synthetic/Simulated
+STU0457,21,Bihar,FEMALE,74.72,mathematics,Synthetic/Simulated
+STU0458,21, Maharashtra ,F,71.97,Electronics,Synthetic/Simulated
+STU0459,20,Rajasthan, Male ,82.89,Statistics,Synthetic/Simulated
+STU0460,19,Tamil Nadu, Female,83.28,Physics,Synthetic/Simulated
+STU0461,21, Delhi , Male ,73.43%,Physics,Synthetic/Simulated
+STU0462,20,Tamil Nadu,FEMALE,72.66,mathematics,Synthetic/Simulated
+STU0463,20, Madhya Pradesh ,female,76.35,Networking,Synthetic/Simulated
+STU0464,20,karnataka,FEMALE,73.03,Mathematics,Synthetic/Simulated
+STU0465,20,Uttar Pradesh, Male ,91.73,Physics,Synthetic/Simulated
+STU0466,19,ODISHA,MALE,80.85,Biotechnology,Synthetic/Simulated
+STU0467,19,Rajasthan, Female,,,Synthetic/Simulated
+STU0468,19,Maharashtra,Female,69.61,Mathematics,Synthetic/Simulated
+STU0469,19,GUJARAT,Female,84.65,Computer Science,Synthetic/Simulated
+STU0470,19,Uttar Pradesh,F,72.5%,Mathematics,Synthetic/Simulated
+STU0471,19,Uttar Pradesh,male,72.13%,mathematics,Synthetic/Simulated
+STU0472,20,West Bengal,Female,84.95,Electronics,Synthetic/Simulated
+STU0473,19, Telangana , Female,81.49,Mathematics,Synthetic/Simulated
+STU0474,17,Kerala,FEMALE,55.47,Computer Science,Synthetic/Simulated
+STU0475,19,Rajasthan,MALE,76.58%,Mathematics,Synthetic/Simulated
+STU0476,18, Madhya Pradesh ,M,79.13,Computer Science,Synthetic/Simulated
+STU0477,20,Bihar,MALE,74.94,Mathematics,Synthetic/Simulated
+STU0478,19,Gujarat,Male,79.44,Mathematics,Synthetic/Simulated
+STU0479,19 yrs,Maharashtra,MALE,61.71%,Civil Engineering,Synthetic/Simulated
+STU0480,20,Jharkhand,Male,52.52,Electronics,Synthetic/Simulated
+STU0481,17,Delhi,Male,69.22,Physics,Synthetic/Simulated
+STU0482,18,Madhya Pradesh,male,80.54,Statistics,Synthetic/Simulated
+STU0483,20,Andhra Pradesh,F,48.98,Physics,Synthetic/Simulated
+STU0484,19,TAMIL NADU, Male ,70.41,Statistics,Synthetic/Simulated
+STU0485,20,Uttar Pradesh,Male,60.7,Mathematics,Synthetic/Simulated
+STU0486,20,Tamil Nadu,M,75.82,Electronics,Synthetic/Simulated
+STU0487,21, MAHARASHTRA , Female,95.62,Physics,Synthetic/Simulated
+STU0488,18,,FEMALE,76.05,Computer Science,Synthetic/Simulated
+STU0489,20,Other,,77.03,Mechanical Engineering,Synthetic/Simulated
+STU0490,20,Tamil Nadu,F,85.55%,Mathematics,Synthetic/Simulated
+STU0491,18,Uttar Pradesh,F,78.19,Biotechnology,Synthetic/Simulated
+STU0492,21,Gujarat,FEMALE,76.07,Physics,Synthetic/Simulated
+STU0493,19,Punjab,MALE,86.34%,Civil Engineering,Synthetic/Simulated
+STU0494,21, GUJARAT ,M,82.25%,Mathematics,Synthetic/Simulated
+STU0495,19,Chhattisgarh,male,80.6,Mathematics,Synthetic/Simulated
+STU0496,19, odisha ,Male,76.75,Physics,Synthetic/Simulated
+STU0497,18,Rajasthan,MALE,74.89,Mathematics,Synthetic/Simulated
+STU0498,21,Karnataka,female,86.25,Civil Engineering,Synthetic/Simulated
+STU0499,19,Tamil Nadu,FEMALE,74.97,Computer Science,Synthetic/Simulated
+STU0500,17,Telangana,F,89.08,Mechanical Engineering,Synthetic/Simulated
+STU0501,17,Rajasthan,male,68.58,Biotechnology,Synthetic/Simulated
+STU0502,20,madhya pradesh, Female,90.9,Statistics,Synthetic/Simulated
+STU0503,,Maharashtra,Female,82.25,Networking,Synthetic/Simulated
+STU0504,19, Tamil Nadu ,Male,69.28%,Mathematics,Synthetic/Simulated
+STU0505,20,Telangana,MALE,82.58,Physics,Synthetic/Simulated
+STU0506,18,Telangana,Female,72.15,computer science,Synthetic/Simulated
+STU0507,19,West Bengal, Male ,78.3,Mathematics,Synthetic/Simulated
+STU0508,18 yrs, Madhya Pradesh ,male,73.62,statistics,Synthetic/Simulated
+STU0509,21,Madhya Pradesh,male,76.8,Mathematics,Synthetic/Simulated
+STU0510,20,Andhra Pradesh,M,86.47,Physics,Synthetic/Simulated
+STU0511,19,Bihar,female,82.67,Mathematics,Synthetic/Simulated
+STU0512,19, Andhra Pradesh ,,67.87,Mathematics,Synthetic/Simulated
+STU0513,19, Maharashtra , Female,68.39,Mathematics,Synthetic/Simulated
+STU0514,21,Rajasthan,M,80.44,Mathematics,Synthetic/Simulated
+STU0515,19,Chhattisgarh,MALE,81.09,computer science,Synthetic/Simulated
+STU0516,19,maharashtra,MALE,71.93,mathematics,Synthetic/Simulated
+STU0517,21,Madhya Pradesh,MALE,92.32,,Synthetic/Simulated
+STU0518,18,TAMIL NADU,Female,85.32,chemistry,Synthetic/Simulated
+STU0519,19,WEST BENGAL,FEMALE,72.37,Computer Science,Synthetic/Simulated
+STU0520,18,Punjab,Female,71.5,Statistics,Synthetic/Simulated
+STU0521,19,chhattisgarh,female,75.95,Statistics,Synthetic/Simulated
+STU0522,19, Telangana ,Male,75.01,Mathematics,Synthetic/Simulated
+STU0523,21, MADHYA PRADESH ,MALE,,Physics,Synthetic/Simulated
+STU0524,19,BIHAR, Female,86.86,mathematics,Synthetic/Simulated
+STU0525,18,Jharkhand, Male ,78.32,Computer Science,Synthetic/Simulated
+STU0526,20,gujarat,female,84.1%,computer science,Synthetic/Simulated
+STU0527,20,Assam,MALE,85.41,,Synthetic/Simulated
+STU0528,,tamil nadu,Female,78.52,Mathematics,Synthetic/Simulated
+STU0529,20,Madhya Pradesh, Male ,81.62,statistics,Synthetic/Simulated
+STU0530,18,BIHAR,F,83.35%,Mathematics,Synthetic/Simulated
+STU0531,20, Karnataka ,FEMALE,82.39,chemistry,Synthetic/Simulated
+STU0532,18,MADHYA PRADESH,MALE,70.99,Chemistry,Synthetic/Simulated
+STU0533,18,Rajasthan,F,71.9,Electronics,Synthetic/Simulated
+STU0534,21,Karnataka, Male ,75.4,Mathematics,Synthetic/Simulated
+STU0535,20, Maharashtra ,F,71.64,Computer Science,Synthetic/Simulated
+STU0536,18,Rajasthan,male,64.74,,Synthetic/Simulated
+STU0537,18,Karnataka,Female,84.08,Mathematics,Synthetic/Simulated
+STU0538,21,telangana,Male,,Mathematics,Synthetic/Simulated
+STU0539,18,Bihar, Male ,65.95%,physics,Synthetic/Simulated
+STU0540,18, Punjab ,M,75.83,statistics,Synthetic/Simulated
+STU0541,18,Haryana,FEMALE,76.34,Mathematics,Synthetic/Simulated
+STU0542,17,Gujarat,MALE,79.64,,Synthetic/Simulated
+STU0543,19,Maharashtra,FEMALE,68.26,Computer Science,Synthetic/Simulated
+STU0544,22,telangana,male,65.81,Computer Science,Synthetic/Simulated
+STU0545,19, Uttar Pradesh ,female,82.68,Mathematics,Synthetic/Simulated
+STU0546,19,Kerala,MALE,,physics,Synthetic/Simulated
+STU0547,20, West Bengal , Male ,75.91,Physics,Synthetic/Simulated
+STU0548,19,rajasthan,female,75.07%,Physics,Synthetic/Simulated
+STU0549,20,Bihar,female,76.89,Statistics,Synthetic/Simulated
+STU0550,20,Bihar,Female,80.27,Physics,Synthetic/Simulated
+STU0551,19,Haryana,Male,92.39%,Mathematics,Synthetic/Simulated
+STU0552,20,maharashtra, Female,,Mathematics,Synthetic/Simulated
+STU0553,20,Haryana,male,85.89,Mathematics,Synthetic/Simulated
+STU0554,20,Madhya Pradesh,male,55.39,mathematics,Synthetic/Simulated
+STU0555,20, TELANGANA ,M,,mathematics,Synthetic/Simulated
+STU0556,18,Chhattisgarh,,59.61,Mathematics,Synthetic/Simulated
+STU0557,20,RAJASTHAN, Female,99.9%,Statistics,Synthetic/Simulated
+STU0558,20,Madhya Pradesh,F,74.49,mathematics,Synthetic/Simulated
+STU0559,19,Andhra Pradesh,M,89.61,Mechanical Engineering,Synthetic/Simulated
+STU0560,20,Kerala,Female,87.76,Mathematics,Synthetic/Simulated
+STU0561,19,Uttar Pradesh, Female,74.07,computer science,Synthetic/Simulated
+STU0562,18,Bihar, Female,74.76,Statistics,Synthetic/Simulated
+STU0563,20,ANDHRA PRADESH,M,70.47,Statistics,Synthetic/Simulated
+STU0564,18,Maharashtra,MALE,85.09,,Synthetic/Simulated
+STU0565,19,Tamil Nadu,FEMALE,74.19,Physics,Synthetic/Simulated
+STU0566,19,Gujarat,Female,70.63,Civil Engineering,Synthetic/Simulated
+STU0567,21, Maharashtra ,FEMALE,82.84,Statistics,Synthetic/Simulated
+STU0568,19,Kerala,FEMALE,69.93,Computer Science,Synthetic/Simulated
+STU0569,20,Uttar Pradesh,Not Specified,75.04,Computer Science,Synthetic/Simulated
+STU0570,20,HARYANA,male,78.96,Physics,Synthetic/Simulated
+STU0571,19,West Bengal,Male,72.22,Statistics,Synthetic/Simulated
+STU0572,21,Bihar,M,73.58,Statistics,Synthetic/Simulated
+STU0573,20 yrs,GUJARAT,MALE,91.81,electronics,Synthetic/Simulated
+STU0574,19,Rajasthan,female,76.16,Statistics,Synthetic/Simulated
+STU0575,21,Andhra Pradesh,MALE,74.76,Computer Science,Synthetic/Simulated
+STU0576,19,Karnataka,female,76.42,Mechanical Engineering,Synthetic/Simulated
+STU0577,17,TELANGANA,Female,82.09,Mathematics,Synthetic/Simulated
+STU0578,18,Gujarat,Other,68.7%,Physics,Synthetic/Simulated
+STU0579,19,Uttar Pradesh,FEMALE,,Computer Science,Synthetic/Simulated
+STU0580,18,Madhya Pradesh,male,80.3,Computer Science,Synthetic/Simulated
+STU0581,19,Telangana, Female,61.9,Electronics,Synthetic/Simulated
+STU0582,19, Gujarat , Female,94.15%,Mechanical Engineering,Synthetic/Simulated
+STU0583,19,Bihar,male,91.15,computer science,Synthetic/Simulated
+STU0584,17,Gujarat,MALE,70.79,electronics,Synthetic/Simulated
+STU0585,20 yrs,Gujarat,MALE,67.9,Networking,Synthetic/Simulated
+STU0586,19 yrs,karnataka,Female,80.05,Physics,Synthetic/Simulated
+STU0587,18,West Bengal,Female,65.17,Computer Science,Synthetic/Simulated
+STU0588,19,Delhi,M,90.28,Computer Science,Synthetic/Simulated
+STU0589,19,Maharashtra,Male,73.78,Physics,Synthetic/Simulated
+STU0590,19,West Bengal,MALE,92.6,Computer Science,Synthetic/Simulated
+STU0591,19,Madhya Pradesh,M,70.58%,Mathematics,Synthetic/Simulated
+STU0592,18,Andhra Pradesh,Male,76.99,electronics,Synthetic/Simulated
+STU0593,20,Tamil Nadu,male,89.4,Computer Science,Synthetic/Simulated
+STU0594,19,Gujarat,,75.09%,Physics,Synthetic/Simulated
+STU0595,18,Andhra Pradesh,Male,80.45%,Computer Science,Synthetic/Simulated
+STU0596,20,Gujarat,Male,87.83,Statistics,Synthetic/Simulated
+STU0597,20,Uttar Pradesh,male,73.0,biotechnology,Synthetic/Simulated
+STU0598,20,Gujarat,FEMALE,,Civil Engineering,Synthetic/Simulated
+STU0599,19,Madhya Pradesh,,64.87,Computer Science,Synthetic/Simulated
+STU0600,,Jharkhand,Female,83.25,Physics,Synthetic/Simulated
+STU0601,19,Telangana,MALE,81.5,Physics,Synthetic/Simulated
+STU0602,18,Telangana,M,87.55,Statistics,Synthetic/Simulated
+STU0603,19, Odisha ,Male,75.53,Mathematics,Synthetic/Simulated
+STU0604,22,Andhra Pradesh,female,65.12,biology,Synthetic/Simulated
+STU0605,20, Gujarat ,F,56.83,Networking,Synthetic/Simulated
+STU0606,, Madhya Pradesh , Male ,99.9,Mathematics,Synthetic/Simulated
+STU0607,18,Rajasthan,M,82.74%,Mathematics,Synthetic/Simulated
+STU0608,20,Haryana,male,79.23,Mathematics,Synthetic/Simulated
+STU0609,18,punjab,F,80.51,Chemistry,Synthetic/Simulated
+STU0610,18, Telangana ,male,65.12,Physics,Synthetic/Simulated
+STU0611,18,Maharashtra,Male,70.85%,mathematics,Synthetic/Simulated
+STU0612,20,Maharashtra,FEMALE,93.69%,Physics,Synthetic/Simulated
+STU0613,20,odisha,,83.93,networking,Synthetic/Simulated
+STU0614,18,MAHARASHTRA,MALE,,mathematics,Synthetic/Simulated
+STU0615,18,west bengal,FEMALE,66.96%,Computer Science,Synthetic/Simulated
+STU0616,19,Rajasthan,MALE,73.36,biotechnology,Synthetic/Simulated
+STU0617,19, Uttar Pradesh ,male,75.16,Chemistry,Synthetic/Simulated
+STU0618,20,Karnataka,male,96.44,Computer Science,Synthetic/Simulated
+STU0619,18,punjab, Female,76.31,Mathematics,Synthetic/Simulated
+STU0620,20,Telangana,PNS,67.29,Computer Science,Synthetic/Simulated
+STU0621,21,Bihar,male,,Mathematics,Synthetic/Simulated
+STU0622,19, Gujarat ,male,80.38,Physics,Synthetic/Simulated
+STU0623,18,Chhattisgarh,male,66.48,Computer Science,Synthetic/Simulated
+STU0624,20,West Bengal,Male,81.62,mathematics,Synthetic/Simulated
+STU0625,19,Bihar, Male ,88.88,Computer Science,Synthetic/Simulated
+STU0626,18, Karnataka ,male,79.25,Electronics,Synthetic/Simulated
+STU0627,19,UTTAR PRADESH, Male ,70.83,Mathematics,Synthetic/Simulated
+STU0628,21,Madhya Pradesh,F,73.24,Mathematics,Synthetic/Simulated
+STU0629,19 yrs,Odisha,,63.07%,Physics,Synthetic/Simulated
+STU0630,20,West Bengal,male,76.8,Mathematics,Synthetic/Simulated
+STU0631,19, maharashtra ,Female,80.8,Mathematics,Synthetic/Simulated
+STU0632,19,uttar pradesh,Male,69.93,Computer Science,Synthetic/Simulated
+STU0633,17,Delhi,M,95.46,Physics,Synthetic/Simulated
+STU0634,,Tamil Nadu, Female,85.13,Electronics,Synthetic/Simulated
+STU0635,18,Tamil Nadu,,61.87,physics,Synthetic/Simulated
+STU0636,19,Madhya Pradesh,MALE,,Mathematics,Synthetic/Simulated
+STU0637,18,Assam,F,69.14,Physics,Synthetic/Simulated
+STU0638,19,Jharkhand,MALE,92.16,biology,Synthetic/Simulated
+STU0639,19,,M,86.02,Statistics,Synthetic/Simulated
+STU0640,17,uttar pradesh,MALE,92.61,Computer Science,Synthetic/Simulated
+STU0641,19,Karnataka,MALE,78.09,Chemistry,Synthetic/Simulated
+STU0642,22,Kerala,Male,76.11,mathematics,Synthetic/Simulated
+STU0643,18,andhra pradesh,Female,66.77,Computer Science,Synthetic/Simulated
+STU0644,19,DELHI,F,81.15%,Mathematics,Synthetic/Simulated
+STU0645,19,TAMIL NADU, Female,76.23,Mathematics,Synthetic/Simulated
+STU0646,19,Uttar Pradesh,Male,75.89%,Mathematics,Synthetic/Simulated
+STU0647,20,Bihar,Female,92.56,Mathematics,Synthetic/Simulated
+STU0648,18,Andhra Pradesh,female,76.86,Mechanical Engineering,Synthetic/Simulated
+STU0649,19, Uttar Pradesh ,Female,89.98,Civil Engineering,Synthetic/Simulated
+STU0650,20,uttar pradesh, Female,63.71,physics,Synthetic/Simulated
+STU0651,19,Karnataka,female,99.9%,Physics,Synthetic/Simulated
+STU0652,21 yrs,Gujarat,,74.64,computer science,Synthetic/Simulated
+STU0653,22,Andhra Pradesh,FEMALE,84.36,Mathematics,Synthetic/Simulated
+STU0654,18,maharashtra,male,85.8,Mathematics,Synthetic/Simulated
+STU0655,19,Uttar Pradesh,female,73.52,Mathematics,Synthetic/Simulated
+STU0656,18,Uttar Pradesh,male,85.37,Computer Science,Synthetic/Simulated
+STU0657,18, Karnataka ,F,85.84,Mathematics,Synthetic/Simulated
+STU0658,19,Telangana, Male ,71.58,Computer Science,Synthetic/Simulated
+STU0659,19,Gujarat, Male ,71.69,mathematics,Synthetic/Simulated
+STU0660,19,Gujarat,FEMALE,78.41,electronics,Synthetic/Simulated
+STU0661,18,Maharashtra,MALE,76.96,Computer Science,Synthetic/Simulated
+STU0662,18,KARNATAKA,FEMALE,90.54,Mathematics,Synthetic/Simulated
+STU0663,22,Other,Male,84.32,Mathematics,Synthetic/Simulated
+STU0664,21,TELANGANA,MALE,77.37,Mathematics,Synthetic/Simulated
+STU0665,18, Uttar Pradesh ,female,83.45,Statistics,Synthetic/Simulated
+STU0666,20,Tamil Nadu,FEMALE,59.58,Biology,Synthetic/Simulated
+STU0667,19,Uttar Pradesh,female,72.46,Computer Science,Synthetic/Simulated
+STU0668,20,Madhya Pradesh,M,80.59,Computer Science,Synthetic/Simulated
+STU0669,19,MAHARASHTRA,Female,88.04,Mathematics,Synthetic/Simulated
+STU0670,21, Madhya Pradesh ,Male,79.8,Mathematics,Synthetic/Simulated
+STU0671,18,Maharashtra, Female,91.12,Computer Science,Synthetic/Simulated
+STU0672,19, Andhra Pradesh ,M,85.81,Mathematics,Synthetic/Simulated
+STU0673,22, Uttar Pradesh ,female,73.61,Mathematics,Synthetic/Simulated
+STU0674,18,Telangana,M,76.74,Biology,Synthetic/Simulated
+STU0675,18 yrs,PUNJAB,Female,81.68%,Mathematics,Synthetic/Simulated
+STU0676,20,West Bengal,female,73.96,Physics,Synthetic/Simulated
+STU0677,20,Bihar,F,91.78,mathematics,Synthetic/Simulated
+STU0678,20,Telangana,Male,68.02,Physics,Synthetic/Simulated
+STU0679,20 yrs,Madhya Pradesh,female,80.84,Physics,Synthetic/Simulated
+STU0680,20, gujarat ,male,84.62,statistics,Synthetic/Simulated
+STU0681,18,Bihar,Other,75.18,Physics,Synthetic/Simulated
+STU0682,19,Kerala,Female,73.15%,statistics,Synthetic/Simulated
+STU0683,20,Andhra Pradesh,female,77.32%,Mathematics,Synthetic/Simulated
+STU0684,20,Kerala,Female,85.31,Physics,Synthetic/Simulated
+STU0685,18,Karnataka,FEMALE,73.5,Mathematics,Synthetic/Simulated
+STU0686,18,Bihar,,68.38,Mathematics,Synthetic/Simulated
+STU0687,20,Kerala,male,88.36,Physics,Synthetic/Simulated
+STU0688,18,Odisha,female,81.59,,Synthetic/Simulated
+STU0689,18,Bihar,Female,87.07,Mathematics,Synthetic/Simulated
+STU0690,20,Delhi,male,84.83,Mechanical Engineering,Synthetic/Simulated
+STU0691,19,Odisha, Female,97.62,Statistics,Synthetic/Simulated
+STU0692,19,Bihar,MALE,88.03,Computer Science,Synthetic/Simulated
+STU0693,17,MADHYA PRADESH,male,71.48,Computer Science,Synthetic/Simulated
+STU0694,18,Uttar Pradesh,female,82.23,statistics,Synthetic/Simulated
+STU0695,20,Telangana,M,72.98,Computer Science,Synthetic/Simulated
+STU0696,19,Madhya Pradesh,male,73.91%,Mechanical Engineering,Synthetic/Simulated
+STU0697,18,Gujarat, Male ,65.29,biology,Synthetic/Simulated
+STU0698,19,West Bengal,MALE,75.42,Mechanical Engineering,Synthetic/Simulated
+STU0699,18,Odisha,M,82.91,Mathematics,Synthetic/Simulated
+STU0700,18,Kerala,Male,77.41,Mathematics,Synthetic/Simulated
+STU0701,18,telangana,Male,68.11,computer science,Synthetic/Simulated
+STU0702,19, Rajasthan ,MALE,64.29,Computer Science,Synthetic/Simulated
+STU0703,18,MAHARASHTRA,Male,97.01,Physics,Synthetic/Simulated
+STU0704,19,Tamil Nadu, Male ,80.93,Statistics,Synthetic/Simulated
+STU0705,19,MAHARASHTRA,female,70.58,Statistics,Synthetic/Simulated
+STU0706,19,West Bengal,MALE,82.16,Physics,Synthetic/Simulated
+STU0707,18,Delhi,F,97.7,Computer Science,Synthetic/Simulated
+STU0708,18, Bihar ,female,83.58,Statistics,Synthetic/Simulated
+STU0709,18,Tamil Nadu,Female,52.92,Electronics,Synthetic/Simulated
+STU0710,19,Karnataka,Female,99.9,Mathematics,Synthetic/Simulated
+STU0711,20,Kerala,M,61.36,Mathematics,Synthetic/Simulated
+STU0712,18, Gujarat , Female,76.15,mathematics,Synthetic/Simulated
+STU0713,20,Bihar,M,67.8,Mathematics,Synthetic/Simulated
+STU0714,20,Maharashtra,MALE,,computer science,Synthetic/Simulated
+STU0715,17,Tamil Nadu,F,80.56,computer science,Synthetic/Simulated
+STU0716,17,Uttar Pradesh,Female,59.36,Mathematics,Synthetic/Simulated
+STU0717,18,Bihar, Male ,77.19,Mechanical Engineering,Synthetic/Simulated
+STU0718,18,telangana, Male ,88.33,Mathematics,Synthetic/Simulated
+STU0719,19,madhya pradesh,F,70.41,Civil Engineering,Synthetic/Simulated
+STU0720,18,West Bengal,FEMALE,65.49,Computer Science,Synthetic/Simulated
+STU0721,20, maharashtra ,Female,76.75,mathematics,Synthetic/Simulated
+STU0722,19,Uttar Pradesh,female,74.95,Physics,Synthetic/Simulated
+STU0723,20,Madhya Pradesh, Female,72.64,physics,Synthetic/Simulated
+STU0724,20,Maharashtra,Other,67.3,Mathematics,Synthetic/Simulated
+STU0725,19,Delhi,F,82.67,computer science,Synthetic/Simulated
+STU0726,21, Other ,FEMALE,83.36,Computer Science,Synthetic/Simulated
+STU0727,22, Karnataka ,MALE,68.41,Statistics,Synthetic/Simulated
+STU0728,19,Tamil Nadu,Male,69.65,Physics,Synthetic/Simulated
+STU0729,18,Telangana, Female,79.23,electronics,Synthetic/Simulated
+STU0730,19,Jharkhand,Male,69.32,Mechanical Engineering,Synthetic/Simulated
+STU0731,18,Bihar,male,79.61,Mathematics,Synthetic/Simulated
+STU0732,19,MADHYA PRADESH,female,91.21,Mathematics,Synthetic/Simulated
+STU0733,19, Karnataka ,female,77.46,Physics,Synthetic/Simulated
+STU0734,19, delhi ,MALE,67.08,Mathematics,Synthetic/Simulated
+STU0735,20,Uttar Pradesh, Male ,81.53,Physics,Synthetic/Simulated
+STU0736,18,Gujarat,Not Specified,76.4,Biotechnology,Synthetic/Simulated
+STU0737,19,Rajasthan,Female,76.65,Computer Science,Synthetic/Simulated
+STU0738,19,Rajasthan,Male,82.28,,Synthetic/Simulated
+STU0739,20,Karnataka,female,84.22%,Electronics,Synthetic/Simulated
+STU0740,19,rajasthan, Male ,78.32,Electronics,Synthetic/Simulated
+STU0741,17,Punjab, Male ,77.45,Mathematics,Synthetic/Simulated
+STU0742,20,andhra pradesh,F,96.57,mathematics,Synthetic/Simulated
+STU0743,18, Madhya Pradesh ,,,Computer Science,Synthetic/Simulated
+STU0744,20, Andhra Pradesh , Male ,85.5,Mathematics,Synthetic/Simulated
+STU0745,19,Telangana,Male,79.18,Mathematics,Synthetic/Simulated
+STU0746,19,Bihar, Female,68.95,electronics,Synthetic/Simulated
+STU0747,20 yrs,bihar, Male ,88.15,Computer Science,Synthetic/Simulated
+STU0748,20,Kerala,Female,79.3,Mathematics,Synthetic/Simulated
+STU0749,20,gujarat, Female,72.81,Statistics,Synthetic/Simulated
+STU0750,19, Maharashtra ,Female,75.81,Mathematics,Synthetic/Simulated
+STU0751,20,Uttar Pradesh,M,69.3%,Mathematics,Synthetic/Simulated
+STU0752,,Uttar Pradesh,FEMALE,87.52,Computer Science,Synthetic/Simulated
+STU0753,20,Karnataka,Male,84.15,Statistics,Synthetic/Simulated
+STU0754,20,Maharashtra,Female,79.63,Mathematics,Synthetic/Simulated
+STU0755,,Tamil Nadu, Male ,77.61,Chemistry,Synthetic/Simulated
+STU0756,18 yrs,GUJARAT,Male,71.87,Statistics,Synthetic/Simulated
+STU0757,18,Kerala,female,58.83,computer science,Synthetic/Simulated
+STU0758,18,BIHAR,female,65.28,Mathematics,Synthetic/Simulated
+STU0759,19,Haryana,F,71.32,Computer Science,Synthetic/Simulated
+STU0760,18,Chhattisgarh,Female,69.96,Mathematics,Synthetic/Simulated
+STU0761,19, Maharashtra , Male ,80.6,Biotechnology,Synthetic/Simulated
+STU0762,18, Karnataka , Male ,85.3,Physics,Synthetic/Simulated
+STU0763,18,Maharashtra,FEMALE,76.84,physics,Synthetic/Simulated
+STU0764,20,Kerala,M,90.68,Physics,Synthetic/Simulated
+STU0765,19,Tamil Nadu, Male ,70.95,computer science,Synthetic/Simulated
+STU0766,19,Uttar Pradesh,,76.78,mathematics,Synthetic/Simulated
+STU0767,20,Uttar Pradesh, Female,77.54,Physics,Synthetic/Simulated
+STU0768,22,Gujarat,FEMALE,87.83,Computer Science,Synthetic/Simulated
+STU0769,19,Andhra Pradesh,male,78.95,physics,Synthetic/Simulated
+STU0770,18,andhra pradesh,female,79.2,Mathematics,Synthetic/Simulated
+STU0771,18,Madhya Pradesh, Male ,,Mathematics,Synthetic/Simulated
+STU0772,21, Uttar Pradesh ,,69.9,Mechanical Engineering,Synthetic/Simulated
+STU0773,20,Gujarat,Male,87.86,Mathematics,Synthetic/Simulated
+STU0774,20,West Bengal,F,59.32,Computer Science,Synthetic/Simulated
+STU0775,20,Maharashtra,M,90.09,Computer Science,Synthetic/Simulated
+STU0776,18, UTTAR PRADESH ,Female,82.5%,Computer Science,Synthetic/Simulated
+STU0777,19,jharkhand,female,71.27%,Physics,Synthetic/Simulated
+STU0778,20,GUJARAT,female,70.51,Mathematics,Synthetic/Simulated
+STU0779,20,Telangana,Male,95.06,Mathematics,Synthetic/Simulated
+STU0780,18,Bihar,MALE,90.7,Computer Science,Synthetic/Simulated
+STU0781,19,Gujarat,F,76.93,Statistics,Synthetic/Simulated
+STU0782,18,Tamil Nadu, Male ,79.21,Computer Science,Synthetic/Simulated
+STU0783,21,Uttar Pradesh,male,72.18,Mathematics,Synthetic/Simulated
+STU0784,18,Uttar Pradesh, Male ,79.21,Physics,Synthetic/Simulated
+STU0785,20,Delhi,Male,71.93,Networking,Synthetic/Simulated
+STU0786,18,Odisha, Female,77.29%,Mathematics,Synthetic/Simulated
+STU0787,19,Telangana, Male ,94.29,Computer Science,Synthetic/Simulated
+STU0788,20 yrs,Maharashtra,M,77.14,Statistics,Synthetic/Simulated
+STU0789,19,madhya pradesh,Male,68.57,Computer Science,Synthetic/Simulated
+STU0790,20,Maharashtra, Female,65.7,civil engineering,Synthetic/Simulated
+STU0791,21,Haryana,,79.14,mathematics,Synthetic/Simulated
+STU0792,20,Andhra Pradesh,Female,71.15,Physics,Synthetic/Simulated
+STU0793,19 yrs, bihar ,male,80.22,Computer Science,Synthetic/Simulated
+STU0794,,Assam,FEMALE,63.42%,Computer Science,Synthetic/Simulated
+STU0795,19,Maharashtra, Female,84.21,computer science,Synthetic/Simulated
+STU0796,19,BIHAR,Male,68.46,Computer Science,Synthetic/Simulated
+STU0797,19,Maharashtra,male,78.42,Physics,Synthetic/Simulated
+STU0798,19, Uttar Pradesh , Female,74.96,Computer Science,Synthetic/Simulated
+STU0799,18,Punjab,M,93.47,Biology,Synthetic/Simulated
+STU0800,19, Odisha ,male,79.54,Chemistry,Synthetic/Simulated
+STU0801,18,Madhya Pradesh,male,95.51,Biotechnology,Synthetic/Simulated
+STU0802,19,UTTAR PRADESH,MALE,83.05,Computer Science,Synthetic/Simulated
+STU0803,18, West Bengal ,F,90.83,Statistics,Synthetic/Simulated
+STU0804,18,Madhya Pradesh,,76.12,Mechanical Engineering,Synthetic/Simulated
+STU0805,20, Bihar ,M,81.11,Physics,Synthetic/Simulated
+STU0806,19,West Bengal,female,88.97,Physics,Synthetic/Simulated
+STU0807,,Uttar Pradesh,MALE,86.14,Biology,Synthetic/Simulated
+STU0808,,Uttar Pradesh, Male ,82.78,Mathematics,Synthetic/Simulated
+STU0809,21,,M,75.05,Mathematics,Synthetic/Simulated
+STU0810,21,Haryana,female,76.57,Mathematics,Synthetic/Simulated
+STU0811,20,RAJASTHAN,Male,88.24,physics,Synthetic/Simulated
+STU0812,22,West Bengal,,90.11%,Computer Science,Synthetic/Simulated
+STU0813,19, Uttar Pradesh ,F,,networking,Synthetic/Simulated
+STU0814,21, Karnataka , Female,71.31,Mathematics,Synthetic/Simulated
+STU0815,21,Madhya Pradesh,F,,Computer Science,Synthetic/Simulated
+STU0816,19,MADHYA PRADESH,F,85.47,computer science,Synthetic/Simulated
+STU0817,20,Telangana, Male ,69.63,Mathematics,Synthetic/Simulated
+STU0818,20,Karnataka, Male ,85.36,Mathematics,Synthetic/Simulated
+STU0819,20,Uttar Pradesh,FEMALE,82.91,Mathematics,Synthetic/Simulated
+STU0820,21, Rajasthan ,male,73.09,Statistics,Synthetic/Simulated
+STU0821,19,Punjab,female,92.07,Physics,Synthetic/Simulated
+STU0822,19,Madhya Pradesh,FEMALE,64.84,Physics,Synthetic/Simulated
+STU0823,20,MAHARASHTRA,female,92.94,Computer Science,Synthetic/Simulated
+STU0824,20,Gujarat,M,80.87,civil engineering,Synthetic/Simulated
+STU0825,20 yrs, Uttar Pradesh ,MALE,59.34,Mathematics,Synthetic/Simulated
+STU0826,20,Tamil Nadu,MALE,92.33,computer science,Synthetic/Simulated
+STU0827,20,Karnataka,male,86.75,Mathematics,Synthetic/Simulated
+STU0828,21, Bihar ,Female,74.15,Statistics,Synthetic/Simulated
+STU0829,18,Tamil Nadu,male,69.32,Statistics,Synthetic/Simulated
+STU0830,21,Gujarat,Female,63.88,Mathematics,Synthetic/Simulated
+STU0831,18,Telangana,FEMALE,99.74,Civil Engineering,Synthetic/Simulated
+STU0832,19,Madhya Pradesh,Male,69.69,Mechanical Engineering,Synthetic/Simulated
+STU0833,18,Uttar Pradesh,F,66.63,Mathematics,Synthetic/Simulated
+STU0834,19,Karnataka, Female,80.41,Mathematics,Synthetic/Simulated
+STU0835,19,UTTAR PRADESH,Female,63.26,Biotechnology,Synthetic/Simulated
+STU0836,18,Madhya Pradesh, Female,69.17,Mathematics,Synthetic/Simulated
+STU0837,20,Rajasthan,M,86.95,Statistics,Synthetic/Simulated
+STU0838,20,Karnataka, Female,82.18,Networking,Synthetic/Simulated
+STU0839,18,Maharashtra,M,74.52,Electronics,Synthetic/Simulated
+STU0840,20,Karnataka,Prefer not to say,78.16,Mechanical Engineering,Synthetic/Simulated
+STU0841,18,TELANGANA, Male ,74.02,Physics,Synthetic/Simulated
+STU0842,18,Tamil Nadu,female,77.44,Computer Science,Synthetic/Simulated
+STU0843,,Uttar Pradesh,Male,71.14,Physics,Synthetic/Simulated
+STU0844,19,Andhra Pradesh, Female,,Mathematics,Synthetic/Simulated
+STU0845,20,Maharashtra,FEMALE,72.5,Mathematics,Synthetic/Simulated
+STU0846,19,chhattisgarh,male,71.47,mathematics,Synthetic/Simulated
+STU0847,20,Karnataka,Female,87.4,Mathematics,Synthetic/Simulated
+STU0848,19,Madhya Pradesh,male,84.93%,Biology,Synthetic/Simulated
+STU0849,20,Andhra Pradesh,Female,69.61%,Computer Science,Synthetic/Simulated
+STU0850,22,Bihar,M,67.25,Computer Science,Synthetic/Simulated
+STU0851,19,Gujarat, Male ,76.58,Computer Science,Synthetic/Simulated
+STU0852,18,Gujarat,Other,97.4,Mathematics,Synthetic/Simulated
+STU0853,18,West Bengal,FEMALE,68.75,Computer Science,Synthetic/Simulated
+STU0854,19,,female,76.55,Mathematics,Synthetic/Simulated
+STU0855,19,JHARKHAND,male,78.8,mathematics,Synthetic/Simulated
+STU0856,18,Uttar Pradesh,male,77.02%,Electronics,Synthetic/Simulated
+STU0857,21,tamil nadu,female,73.88,Chemistry,Synthetic/Simulated
+STU0858,21 yrs,Karnataka, Female,88.4,Mathematics,Synthetic/Simulated
+STU0859,18,Karnataka,Male,82.09,electronics,Synthetic/Simulated
+STU0860,18,BIHAR, Male ,85.61,mechanical engineering,Synthetic/Simulated
+STU0861,18,Rajasthan,M,83.3,biotechnology,Synthetic/Simulated
+STU0862,19,Telangana, Male ,86.05,biotechnology,Synthetic/Simulated
+STU0863,20,Uttar Pradesh, Female,92.26,Mathematics,Synthetic/Simulated
+STU0864,,Maharashtra,F,89.98%,Physics,Synthetic/Simulated
+STU0865,18,bihar, Male ,98.92,,Synthetic/Simulated
+STU0866,19, UTTAR PRADESH ,Male,,Computer Science,Synthetic/Simulated
+STU0867,18,Madhya Pradesh,FEMALE,71.97%,Computer Science,Synthetic/Simulated
+STU0868,19,madhya pradesh,M,85.63,Statistics,Synthetic/Simulated
+STU0869,19, KARNATAKA ,female,84.39,Mathematics,Synthetic/Simulated
+STU0870,20, DELHI ,Female,,Statistics,Synthetic/Simulated
+STU0871,19,Gujarat,MALE,69.3,Biology,Synthetic/Simulated
+STU0872,20,Maharashtra,Female,83.02,Physics,Synthetic/Simulated
+STU0873,17,Andhra Pradesh,Female,71.87,,Synthetic/Simulated
+STU0874,20,Uttar Pradesh,male,82.61,Electronics,Synthetic/Simulated
+STU0875,17,Other,FEMALE,76.07,Biotechnology,Synthetic/Simulated
+STU0876,19,West Bengal,Female,82.32,Statistics,Synthetic/Simulated
+STU0877,20,UTTAR PRADESH,male,65.31%,Electronics,Synthetic/Simulated
+STU0878,20,Bihar,F,85.14,Mathematics,Synthetic/Simulated
+STU0879,18,Uttar Pradesh,male,79.85,civil engineering,Synthetic/Simulated
+STU0880,19,Telangana, Female,79.37,Physics,Synthetic/Simulated
+STU0881,20, Madhya Pradesh ,female,95.55,electronics,Synthetic/Simulated
+STU0882,21, Odisha ,male,74.56%,Physics,Synthetic/Simulated
+STU0883,19, Telangana ,female,81.08%,Networking,Synthetic/Simulated
+STU0884,17,Odisha,Male,,Mathematics,Synthetic/Simulated
+STU0885,19,jharkhand,MALE,79.78,Mathematics,Synthetic/Simulated
+STU0886,18,Uttar Pradesh,male,98.0,Mathematics,Synthetic/Simulated
+STU0887,18,,,78.57,mathematics,Synthetic/Simulated
+STU0888,19,Kerala, Female,72.89,Physics,Synthetic/Simulated
+STU0889,20,Rajasthan, Male ,94.84,mathematics,Synthetic/Simulated
+STU0890,18 yrs,Madhya Pradesh,M,75.23%,Biotechnology,Synthetic/Simulated
+STU0891,20, Uttar Pradesh ,M,63.55,statistics,Synthetic/Simulated
+STU0892,20,Uttar Pradesh, Male ,71.33,networking,Synthetic/Simulated
+STU0893,20,odisha,FEMALE,66.78,Mathematics,Synthetic/Simulated
+STU0894,18,gujarat,F,61.8,Physics,Synthetic/Simulated
+STU0895,19,Karnataka,MALE,,statistics,Synthetic/Simulated
+STU0896,18,Assam, Male ,77.37,Mathematics,Synthetic/Simulated
+STU0897,18,Uttar Pradesh,F,88.62,Computer Science,Synthetic/Simulated
+STU0898,19,Telangana,male,83.66,Statistics,Synthetic/Simulated
+STU0899,19,MADHYA PRADESH, Male ,83.25,mathematics,Synthetic/Simulated
+STU0900,18,Madhya Pradesh,F,69.96,Physics,Synthetic/Simulated
+STU0901,18,Maharashtra,FEMALE,85.96,Electronics,Synthetic/Simulated
+STU0902,21,uttar pradesh,MALE,90.52,statistics,Synthetic/Simulated
+STU0903,20,Rajasthan,M,81.55,Physics,Synthetic/Simulated
+STU0904,19,Gujarat,MALE,81.8,Physics,Synthetic/Simulated
+STU0905,21,Uttar Pradesh,F,66.62,Computer Science,Synthetic/Simulated
+STU0906,18 yrs,MADHYA PRADESH,M,87.49,Mathematics,Synthetic/Simulated
+STU0907,19,Karnataka,MALE,,Physics,Synthetic/Simulated
+STU0908,20 yrs,Madhya Pradesh,Male,80.91,Computer Science,Synthetic/Simulated
+STU0909,19, Andhra Pradesh ,female,72.65,Statistics,Synthetic/Simulated
+STU0910,18 yrs, Haryana , Female,76.54,Mathematics,Synthetic/Simulated
+STU0911,19,Karnataka,male,74.22,Mathematics,Synthetic/Simulated
+STU0912,19,, Female,74.76,Statistics,Synthetic/Simulated
+STU0913,19,Tamil Nadu, Female,83.83,Networking,Synthetic/Simulated
+STU0914,19,Tamil Nadu,male,80.52,,Synthetic/Simulated
+STU0915,19, Haryana ,F,87.04,mathematics,Synthetic/Simulated
+STU0916,18,,MALE,81.34,Computer Science,Synthetic/Simulated
+STU0917,19,Gujarat,Male,70.22,Mathematics,Synthetic/Simulated
+STU0918,18,Tamil Nadu,Male,73.49,Computer Science,Synthetic/Simulated
+STU0919,20,andhra pradesh,Female,72.93%,Statistics,Synthetic/Simulated
+STU0920,20,madhya pradesh,male,76.32,Mathematics,Synthetic/Simulated
+STU0921,19, Bihar ,male,94.15,computer science,Synthetic/Simulated
+STU0922,20,Tamil Nadu,M,95.59,Computer Science,Synthetic/Simulated
+STU0923,17,Karnataka,Female,85.53,Physics,Synthetic/Simulated
+STU0924,19,,F,79.07,Mathematics,Synthetic/Simulated
+STU0925,19,Uttar Pradesh,Male,65.75,Mathematics,Synthetic/Simulated
+STU0926,19,maharashtra,female,79.98,Statistics,Synthetic/Simulated
+STU0927,20,Bihar,MALE,70.89,Physics,Synthetic/Simulated
+STU0928,21,Chhattisgarh,FEMALE,92.67,Statistics,Synthetic/Simulated
+STU0929,19,Jharkhand,FEMALE,63.55%,Mathematics,Synthetic/Simulated
+STU0930,19,Rajasthan,MALE,81.46,Biotechnology,Synthetic/Simulated
+STU0931,19,Uttar Pradesh, Male ,70.13%,Computer Science,Synthetic/Simulated
+STU0932,19,Andhra Pradesh,Male,77.91,Mathematics,Synthetic/Simulated
+STU0933,18,Karnataka,MALE,83.99,Mathematics,Synthetic/Simulated
+STU0934,21,Bihar, Male ,87.2%,Statistics,Synthetic/Simulated
+STU0935,20, Rajasthan ,Prefer not to say,77.45,Statistics,Synthetic/Simulated
+STU0936,21, Maharashtra , Female,84.85,statistics,Synthetic/Simulated
+STU0937,18,Andhra Pradesh,F,,Mathematics,Synthetic/Simulated
+STU0938,,Tamil Nadu,F,80.21%,Computer Science,Synthetic/Simulated
+STU0939,,Rajasthan, Male ,87.02,Statistics,Synthetic/Simulated
+STU0940,21,Chhattisgarh,FEMALE,80.99,physics,Synthetic/Simulated
+STU0941,18, tamil nadu ,Male,,Computer Science,Synthetic/Simulated
+STU0942,18,Haryana,female,75.49%,Statistics,Synthetic/Simulated
+STU0943,18,Gujarat,M,87.14,Physics,Synthetic/Simulated
+STU0944,20,Gujarat,MALE,68.17,Mathematics,Synthetic/Simulated
+STU0945,20 yrs, Haryana ,MALE,69.5,,Synthetic/Simulated
+STU0946,20,Punjab,male,83.41,Statistics,Synthetic/Simulated
+STU0947,18,Assam,female,74.05,Biotechnology,Synthetic/Simulated
+STU0948,20,andhra pradesh,MALE,64.92,Statistics,Synthetic/Simulated
+STU0949,19,GUJARAT,female,90.16,Mathematics,Synthetic/Simulated
+STU0950,18,Maharashtra,MALE,68.1,Mathematics,Synthetic/Simulated
+STU0951,19,Rajasthan,,76.21,Physics,Synthetic/Simulated
+STU0952,19,Haryana,female,72.42,Mathematics,Synthetic/Simulated
+STU0953,19, Rajasthan ,FEMALE,75.32%,Computer Science,Synthetic/Simulated
+STU0954,21,Telangana, Male ,70.04,Mathematics,Synthetic/Simulated
+STU0955,19,Haryana,MALE,84.43,Computer Science,Synthetic/Simulated
+STU0956,19, Delhi ,Female,79.0%,computer science,Synthetic/Simulated
+STU0957,20, punjab ,female,86.85,Mathematics,Synthetic/Simulated
+STU0958,20,BIHAR,F,72.52,Mathematics,Synthetic/Simulated
+STU0959,17,Bihar,male,97.2,Mathematics,Synthetic/Simulated
+STU0960,19,Delhi,Male,60.86,mathematics,Synthetic/Simulated
+STU0961,18,Maharashtra,F,63.73%,Mathematics,Synthetic/Simulated
+STU0962,19, Maharashtra ,M,93.78,Electronics,Synthetic/Simulated
+STU0963,20, Assam ,MALE,82.27%,Physics,Synthetic/Simulated
+STU0964,19,Karnataka, Male ,81.07,Mathematics,Synthetic/Simulated
+STU0965,19 yrs, Bihar ,MALE,81.88%,mathematics,Synthetic/Simulated
+STU0966,18,Maharashtra,M,83.14%,Physics,Synthetic/Simulated
+STU0967,19,Bihar,M,80.7,Mathematics,Synthetic/Simulated
+STU0968,19,Punjab, Female,69.31,Mathematics,Synthetic/Simulated
+STU0969,21,WEST BENGAL,female,85.36%,Physics,Synthetic/Simulated
+STU0970,, Rajasthan , Female,83.95%,Computer Science,Synthetic/Simulated
+STU0971,20,Bihar,FEMALE,90.86,statistics,Synthetic/Simulated
+STU0972,19,Jharkhand,female,93.88,Physics,Synthetic/Simulated
+STU0973,20,Chhattisgarh,MALE,80.97,mathematics,Synthetic/Simulated
+STU0974,18,rajasthan,,66.95,Computer Science,Synthetic/Simulated
+STU0975,19,west bengal,female,93.95,Statistics,Synthetic/Simulated
+STU0976,18,Uttar Pradesh, Female,68.84,Mathematics,Synthetic/Simulated
+STU0977,18,Gujarat,Male,81.04%,physics,Synthetic/Simulated
+STU0978,21,Maharashtra,M,75.69,mathematics,Synthetic/Simulated
+STU0979,20,Bihar,female,74.12,Mathematics,Synthetic/Simulated
+STU0980,19,West Bengal,M,84.88,Physics,Synthetic/Simulated
+STU0981,19,Uttar Pradesh,Female,80.2,Mathematics,Synthetic/Simulated
+STU0982,19,Uttar Pradesh,female,82.62,Statistics,Synthetic/Simulated
+STU0983,19, Maharashtra ,M,70.66,Biology,Synthetic/Simulated
+STU0984,20,Maharashtra,M,76.43,Electronics,Synthetic/Simulated
+STU0985,19,Karnataka,female,71.07,mathematics,Synthetic/Simulated
+STU0986,20,Uttar Pradesh,M,76.21,Networking,Synthetic/Simulated
+STU0987,19,Madhya Pradesh,M,76.93,Mathematics,Synthetic/Simulated
+STU0988,22 yrs,Other,female,94.6%,Physics,Synthetic/Simulated
+STU0989,18,Uttar Pradesh,M,75.67%,Mathematics,Synthetic/Simulated
+STU0990,19,Jharkhand,F,,,Synthetic/Simulated
+STU0991,21,West Bengal,MALE,90.56,,Synthetic/Simulated
+STU0992,18, Karnataka ,FEMALE,82.04,computer science,Synthetic/Simulated
+STU0993,18,West Bengal,Female,76.82%,Mathematics,Synthetic/Simulated
+STU0994,19,,FEMALE,74.07%,Mathematics,Synthetic/Simulated
+STU0995,19,Kerala,MALE,69.48,Mathematics,Synthetic/Simulated
+STU0996,21,Kerala,Female,95.44,physics,Synthetic/Simulated
+STU0997,20,Rajasthan,M,78.47,mathematics,Synthetic/Simulated
+STU0998,19,TELANGANA,F,,mathematics,Synthetic/Simulated
+STU0999,22, Bihar ,MALE,80.95,Mathematics,Synthetic/Simulated
+STU1000,20,Chhattisgarh,Male,88.86,Statistics,Synthetic/Simulated
+STU1001,20,Andhra Pradesh,F,79.41,Mathematics,Synthetic/Simulated
+STU1002,18,Madhya Pradesh, Male ,69.89%,Electronics,Synthetic/Simulated
+STU1003,19,Odisha,male,69.08,Mathematics,Synthetic/Simulated
+STU1004,17,Assam,male,69.74,Physics,Synthetic/Simulated
+STU1005,17,TELANGANA,female,91.69,mathematics,Synthetic/Simulated
+STU1006,20, Madhya Pradesh ,MALE,77.36,Physics,Synthetic/Simulated
+STU1007,18,Andhra Pradesh,male,62.89,Mathematics,Synthetic/Simulated
+STU1008,19,Tamil Nadu,female,81.46,computer science,Synthetic/Simulated
+STU1009,20,Uttar Pradesh, Male ,79.27,biology,Synthetic/Simulated
+STU1010,18,Jharkhand,F,73.96,Electronics,Synthetic/Simulated
+STU1011,19,West Bengal, Male ,68.82,Mathematics,Synthetic/Simulated
+STU1012,20, Odisha ,MALE,68.42,mechanical engineering,Synthetic/Simulated
+STU1013,21,karnataka,,87.78,Electronics,Synthetic/Simulated
+STU1014,19, Uttar Pradesh ,F,80.23%,Networking,Synthetic/Simulated
+STU1015,22,DELHI,female,82.31,mathematics,Synthetic/Simulated
+STU1016,20,West Bengal,female,80.2,Computer Science,Synthetic/Simulated
+STU1017,20,Bihar,MALE,80.95,Civil Engineering,Synthetic/Simulated
+STU1018,,Rajasthan,female,73.78,Computer Science,Synthetic/Simulated
+STU1019,20, Maharashtra ,Female,76.15,Mathematics,Synthetic/Simulated
+STU1020,20,Karnataka,F,88.48,mathematics,Synthetic/Simulated
+STU1021,19,Gujarat,M,90.73,Statistics,Synthetic/Simulated
+STU1022,22,haryana,Female,67.0%,Chemistry,Synthetic/Simulated
+STU1023,21,Assam,MALE,76.13,Networking,Synthetic/Simulated
+STU1024,19,Telangana,female,85.55,Physics,Synthetic/Simulated
+STU1025,20,uttar pradesh,female,94.94,Mathematics,Synthetic/Simulated
+STU1026,19, Karnataka ,F,94.04,Computer Science,Synthetic/Simulated
+STU1027,20,Madhya Pradesh,FEMALE,70.84%,Computer Science,Synthetic/Simulated
+STU1028,20,Kerala,MALE,89.48,Computer Science,Synthetic/Simulated
+STU1029,17,Bihar,FEMALE,78.53,Biotechnology,Synthetic/Simulated
+STU1030,18,Haryana,female,87.4,Mathematics,Synthetic/Simulated
+STU1031,19, Rajasthan ,FEMALE,85.09,Mechanical Engineering,Synthetic/Simulated
+STU1032,21, Uttar Pradesh ,Female,66.62,Chemistry,Synthetic/Simulated
+STU1033,19,Other, Female,82.95,Physics,Synthetic/Simulated
+STU1034,21,Bihar,FEMALE,87.05,Networking,Synthetic/Simulated
+STU1035,19, Odisha , Female,77.82,Mathematics,Synthetic/Simulated
+STU1036,19, CHHATTISGARH ,male,75.78,Mathematics,Synthetic/Simulated
+STU1037,21,Bihar,MALE,,Computer Science,Synthetic/Simulated
+STU1038,19,Gujarat,M,84.15,electronics,Synthetic/Simulated
+STU1039,19,bihar,female,79.88,Physics,Synthetic/Simulated
+STU1040,18, kerala ,Prefer not to say,69.7%,Physics,Synthetic/Simulated
+STU1041,18,Assam,Other,75.07,Physics,Synthetic/Simulated
+STU1042,, Uttar Pradesh ,Male,79.39,mathematics,Synthetic/Simulated
+STU1043,19, Telangana , Female,72.97,Physics,Synthetic/Simulated
+STU1044,19,Uttar Pradesh, Male ,78.02,Physics,Synthetic/Simulated
+STU1045,19,TAMIL NADU,M,62.25%,Mathematics,Synthetic/Simulated
+STU1046,18,ANDHRA PRADESH,M,90.14%,Statistics,Synthetic/Simulated
+STU1047,,Jharkhand,Male,78.14%,Physics,Synthetic/Simulated
+STU1048,19,Gujarat,MALE,68.11,Mathematics,Synthetic/Simulated
+STU1049,22,Rajasthan,Other,55.86%,mathematics,Synthetic/Simulated
+STU1050,19,Uttar Pradesh,Female,87.26%,,Synthetic/Simulated
+STU1051,18,Maharashtra,Female,83.02,Mathematics,Synthetic/Simulated
+STU1052,19,Rajasthan,M,79.9,Mathematics,Synthetic/Simulated
+STU1053,21,Odisha, Female,85.77,Computer Science,Synthetic/Simulated
+STU1054,20,Gujarat,F,85.75%,computer science,Synthetic/Simulated
+STU1055,20 yrs,Uttar Pradesh,F,79.75,Computer Science,Synthetic/Simulated
+STU1056,21,telangana,F,75.71,Mathematics,Synthetic/Simulated
+STU1057,19,Maharashtra,Female,74.25%,computer science,Synthetic/Simulated
+STU1058,22,UTTAR PRADESH,MALE,81.79,Statistics,Synthetic/Simulated
+STU1059,18,Haryana,Female,90.57,Mechanical Engineering,Synthetic/Simulated
+STU1060,20, Madhya Pradesh ,male,77.07,Chemistry,Synthetic/Simulated
+STU1061,20,Gujarat,F,91.29,Mathematics,Synthetic/Simulated
+STU1062,21,West Bengal,M,81.36,Mathematics,Synthetic/Simulated
+STU1063,19,Uttar Pradesh,male,81.43,mathematics,Synthetic/Simulated
+STU1064,20,Uttar Pradesh,M,,Mathematics,Synthetic/Simulated
+STU1065,18,Uttar Pradesh,,92.87,Statistics,Synthetic/Simulated
+STU1066,19,Rajasthan,F,93.11,Computer Science,Synthetic/Simulated
+STU1067,19,Jharkhand,male,70.82%,Mathematics,Synthetic/Simulated
+STU1068,19,Gujarat,Male,97.73,Biotechnology,Synthetic/Simulated
+STU1069,20,Gujarat,F,77.26,Mathematics,Synthetic/Simulated
+STU1070,19,Rajasthan,MALE,75.95,Electronics,Synthetic/Simulated
+STU1071,18,Assam,male,,Computer Science,Synthetic/Simulated
+STU1072,19,madhya pradesh, Female,80.94,Civil Engineering,Synthetic/Simulated
+STU1073,20, ODISHA ,male,68.25,Physics,Synthetic/Simulated
+STU1074,20,UTTAR PRADESH,Female,,Computer Science,Synthetic/Simulated
+STU1075,20,Punjab,female,67.55,Computer Science,Synthetic/Simulated
+STU1076,18,Uttar Pradesh, Male ,94.18,Statistics,Synthetic/Simulated
+STU1077,20,Madhya Pradesh,MALE,82.96,mathematics,Synthetic/Simulated
+STU1078,20,Bihar, Male ,98.52,Physics,Synthetic/Simulated
+STU1079,18 yrs, Uttar Pradesh ,male,68.79,Civil Engineering,Synthetic/Simulated
+STU1080,19, telangana ,,91.94,,Synthetic/Simulated
+STU1081,19 yrs,Tamil Nadu,female,61.78,mathematics,Synthetic/Simulated
+STU1082,19,Karnataka,FEMALE,,Networking,Synthetic/Simulated
+STU1083,18,,FEMALE,72.32%,Computer Science,Synthetic/Simulated
+STU1084,18 yrs,Karnataka,Male,73.97,Computer Science,Synthetic/Simulated
+STU1085,17,Uttar Pradesh,MALE,73.35,Mathematics,Synthetic/Simulated
+STU1086,18,other,M,69.77,Chemistry,Synthetic/Simulated
+STU1087,18,Telangana, Female,66.66,computer science,Synthetic/Simulated
+STU1088,20,WEST BENGAL, Female,74.02%,Mathematics,Synthetic/Simulated
+STU1089,19, ODISHA ,male,79.04,Mathematics,Synthetic/Simulated
+STU1090,19 yrs,West Bengal,MALE,88.47,Mathematics,Synthetic/Simulated
+STU1091,20, Bihar ,Female,80.66,Computer Science,Synthetic/Simulated
+STU1092,19,Uttar Pradesh,Male,88.5%,Civil Engineering,Synthetic/Simulated
+STU1093,18, KARNATAKA ,Male,64.7,Statistics,Synthetic/Simulated
+STU1094,18,Rajasthan,M,,Computer Science,Synthetic/Simulated
+STU1095,18,Madhya Pradesh,FEMALE,84.4,Mechanical Engineering,Synthetic/Simulated
+STU1096,,Andhra Pradesh,Male,81.09,Mathematics,Synthetic/Simulated
+STU1097,19,Madhya Pradesh,F,70.25%,Statistics,Synthetic/Simulated
+STU1098,19,Karnataka, Female,86.41,Statistics,Synthetic/Simulated
+STU1099,19,Maharashtra,male,73.22,Computer Science,Synthetic/Simulated
+STU1100,22, gujarat ,FEMALE,71.0,mathematics,Synthetic/Simulated
+STU1101,19,Odisha,FEMALE,82.38,physics,Synthetic/Simulated
+STU1102,19, Madhya Pradesh , Female,78.06,Computer Science,Synthetic/Simulated
+STU1103,19,Tamil Nadu,FEMALE,73.29%,Mathematics,Synthetic/Simulated
+STU1104,20,Tamil Nadu,MALE,,Computer Science,Synthetic/Simulated
+STU1105,20,odisha,FEMALE,68.37,Physics,Synthetic/Simulated
+STU1106,,Maharashtra,MALE,74.44,Mathematics,Synthetic/Simulated
+STU1107,18,Andhra Pradesh,M,87.9,Computer Science,Synthetic/Simulated
+STU1108,19,Gujarat,F,80.2,mathematics,Synthetic/Simulated
+STU1109,20,Gujarat,male,86.63,Mathematics,Synthetic/Simulated
+STU1110,19, Rajasthan ,FEMALE,82.64,Computer Science,Synthetic/Simulated
+STU1111,22, Rajasthan , Female,72.49%,Mathematics,Synthetic/Simulated
+STU1112,19,Bihar,Female,63.16,Electronics,Synthetic/Simulated
+STU1113,19,Madhya Pradesh,female,69.66,mathematics,Synthetic/Simulated
+STU1114,19,Gujarat,,71.96,Computer Science,Synthetic/Simulated
+STU1115,19, Tamil Nadu ,Female,71.26%,mathematics,Synthetic/Simulated
+STU1116,20,Bihar,MALE,86.83,Mathematics,Synthetic/Simulated
+STU1117,18,Maharashtra, Male ,86.74,computer science,Synthetic/Simulated
+STU1118,19,Rajasthan,Male,97.91,Statistics,Synthetic/Simulated
+STU1119,19 yrs,Gujarat,Male,71.13,,Synthetic/Simulated
+STU1120,20,Tamil Nadu,male,92.38%,Mathematics,Synthetic/Simulated
+STU1121,19,Chhattisgarh, Female,92.32%,Physics,Synthetic/Simulated
+STU1122,21,Bihar, Male ,75.91,Physics,Synthetic/Simulated
+STU1123,20,Karnataka,,82.26,mathematics,Synthetic/Simulated
+STU1124,19,Madhya Pradesh,,89.17,Computer Science,Synthetic/Simulated
+STU1125,20,Punjab,male,77.47,Mathematics,Synthetic/Simulated
+STU1126,21,Uttar Pradesh,female,76.77,Mathematics,Synthetic/Simulated
+STU1127,18,Rajasthan,male,72.35,physics,Synthetic/Simulated
+STU1128,19,Uttar Pradesh,MALE,56.76%,Biotechnology,Synthetic/Simulated
+STU1129,19,Madhya Pradesh,Male,78.63,Mathematics,Synthetic/Simulated
+STU1130,20,Andhra Pradesh, Female,71.61,Computer Science,Synthetic/Simulated
+STU1131,18,Uttar Pradesh,male,68.32,Computer Science,Synthetic/Simulated
+STU1132,20,Uttar Pradesh,Male,81.8,Physics,Synthetic/Simulated
+STU1133,19,Maharashtra,Female,64.94%,Computer Science,Synthetic/Simulated
+STU1134,19,Delhi,,85.25,Biology,Synthetic/Simulated
+STU1135,17, ANDHRA PRADESH ,,82.35,Mathematics,Synthetic/Simulated
+STU1136,20,Haryana, Male ,74.4,Computer Science,Synthetic/Simulated
+STU1137,19, Odisha ,female,77.43,Mathematics,Synthetic/Simulated
+STU1138,19,Chhattisgarh,female,67.29,Physics,Synthetic/Simulated
+STU1139,19,Gujarat,Female,84.75,Physics,Synthetic/Simulated
+STU1140,18,Maharashtra, Male ,79.69,mathematics,Synthetic/Simulated
+STU1141,19,uttar pradesh, Male ,80.36,Statistics,Synthetic/Simulated
+STU1142,21,Uttar Pradesh,female,82.52,Mathematics,Synthetic/Simulated
+STU1143,18,karnataka,F,72.22,Computer Science,Synthetic/Simulated
+STU1144,20, Madhya Pradesh ,Male,64.33,Mathematics,Synthetic/Simulated
+STU1145,18, Maharashtra , Female,86.62,Mathematics,Synthetic/Simulated
+STU1146,20,KARNATAKA,,84.2,mathematics,Synthetic/Simulated
+STU1147,18,Maharashtra,MALE,73.18,Biology,Synthetic/Simulated
+STU1148,19, Madhya Pradesh ,F,81.68,Statistics,Synthetic/Simulated
+STU1149,19, Madhya Pradesh ,male,89.32,Physics,Synthetic/Simulated
+STU1150,18,Karnataka,female,88.25,Statistics,Synthetic/Simulated
+STU1151,19,Maharashtra,male,72.92,Computer Science,Synthetic/Simulated
+STU1152,19,Maharashtra,MALE,64.6,Computer Science,Synthetic/Simulated
+STU1153,19,Uttar Pradesh,female,66.15,Computer Science,Synthetic/Simulated
+STU1154,22, Telangana ,MALE,75.19,computer science,Synthetic/Simulated
+STU1155,19,Maharashtra,M,,Physics,Synthetic/Simulated
+STU1156,21,madhya pradesh,Male,71.44,Computer Science,Synthetic/Simulated
+STU1157,19,Chhattisgarh, Female,72.63,Physics,Synthetic/Simulated
+STU1158,18,Odisha,F,72.45,Mathematics,Synthetic/Simulated
+STU1159,18,Maharashtra,MALE,73.21,Mathematics,Synthetic/Simulated
+STU1160,19,Uttar Pradesh,F,77.9,Mathematics,Synthetic/Simulated
+STU1161,19,MAHARASHTRA, Female,66.48,Physics,Synthetic/Simulated
+STU1162,20,Karnataka,Female,87.76,Civil Engineering,Synthetic/Simulated
+STU1163,20,Uttar Pradesh,,76.7,computer science,Synthetic/Simulated
+STU1164,19,Haryana,FEMALE,99.9,Mathematics,Synthetic/Simulated
+STU1165,19,Kerala, Female,67.44%,Physics,Synthetic/Simulated
+STU1166,19,,M,92.31,Statistics,Synthetic/Simulated
+STU1167,19,Madhya Pradesh,female,90.52,Mathematics,Synthetic/Simulated
+STU1168,18,Jharkhand,F,74.29,mathematics,Synthetic/Simulated
+STU1169,18,Karnataka,MALE,74.44,Statistics,Synthetic/Simulated
+STU1170,19,Andhra Pradesh,Female,69.71,Mathematics,Synthetic/Simulated
+STU1171,18,Madhya Pradesh,Prefer not to say,,Electronics,Synthetic/Simulated
+STU1172,20,Karnataka,Female,77.99,Biotechnology,Synthetic/Simulated
+STU1173,17,ANDHRA PRADESH,MALE,78.19,Computer Science,Synthetic/Simulated
+STU1174,18,Punjab, Male ,63.58%,Statistics,Synthetic/Simulated
+STU1175,21,West Bengal,F,98.64,Physics,Synthetic/Simulated
+STU1176,22, bihar ,F,75.66,Computer Science,Synthetic/Simulated
+STU1177,19,Gujarat,MALE,78.59,Physics,Synthetic/Simulated
+STU1178,19,KARNATAKA, Female,72.36,Computer Science,Synthetic/Simulated
+STU1179,20,Haryana,F,75.6,Computer Science,Synthetic/Simulated
+STU1180,18 yrs,West Bengal,MALE,74.78,mathematics,Synthetic/Simulated
+STU1181,19,uttar pradesh,MALE,77.97,Mathematics,Synthetic/Simulated
+STU1182,18, Madhya Pradesh ,Male,77.87,Mathematics,Synthetic/Simulated
+STU1183,19 yrs,Tamil Nadu,F,85.24,Computer Science,Synthetic/Simulated
+STU1184,22, Odisha , Female,80.04%,Computer Science,Synthetic/Simulated
+STU1185,20,MADHYA PRADESH,M,84.34,Computer Science,Synthetic/Simulated
+STU1186,22,Rajasthan,F,77.91,mathematics,Synthetic/Simulated
+STU1187,20,Punjab,F,80.08,Electronics,Synthetic/Simulated
+STU1188,19,Bihar,FEMALE,75.83,Computer Science,Synthetic/Simulated
+STU1189,20,uttar pradesh,female,87.03,Physics,Synthetic/Simulated
+STU1190,20, rajasthan ,male,80.9,civil engineering,Synthetic/Simulated
+STU1191,19,Rajasthan,Female,76.58,Physics,Synthetic/Simulated
+STU1192,19,Madhya Pradesh,Other,76.31,Electronics,Synthetic/Simulated
+STU1193,19, tamil nadu ,F,77.02,Mathematics,Synthetic/Simulated
+STU1194,18,West Bengal,female,78.27,Networking,Synthetic/Simulated
+STU1195,19,tamil nadu,Female,77.49,Statistics,Synthetic/Simulated
+STU1196,18, Tamil Nadu ,MALE,72.97,Mathematics,Synthetic/Simulated
+STU1197,19,Madhya Pradesh,M,84.88,Computer Science,Synthetic/Simulated
+STU1198,18, MAHARASHTRA , Male ,,Physics,Synthetic/Simulated
+STU1199,19,Maharashtra,FEMALE,94.05,Statistics,Synthetic/Simulated
+STU1200,19,Madhya Pradesh,Female,72.57,Biology,Synthetic/Simulated
+STU1201,18,Telangana,MALE,84.0,Mechanical Engineering,Synthetic/Simulated
+STU1202,21,Maharashtra, Female,60.82,Mathematics,Synthetic/Simulated
+STU1203,19,Tamil Nadu,MALE,85.46,Mathematics,Synthetic/Simulated
+STU1204,19,Maharashtra,Female,64.89,Biology,Synthetic/Simulated
+STU1205,17,Madhya Pradesh, Female,69.14,Physics,Synthetic/Simulated
+STU1206,20,Maharashtra, Female,80.99,Physics,Synthetic/Simulated
+STU1207,19,BIHAR,FEMALE,72.41%,Civil Engineering,Synthetic/Simulated
+STU1208,19,, Male ,71.17,Physics,Synthetic/Simulated
+STU1209,18,andhra pradesh,MALE,73.64,Statistics,Synthetic/Simulated
+STU1210,20,Maharashtra,M,84.57,Electronics,Synthetic/Simulated
+STU1211,21,Tamil Nadu, Male ,69.6,Mathematics,Synthetic/Simulated
+STU1212,19,TELANGANA,FEMALE,77.51,Mathematics,Synthetic/Simulated
+STU1213,18,Uttar Pradesh,M,74.59%,mathematics,Synthetic/Simulated
+STU1214,18,MADHYA PRADESH, Female,85.38,Physics,Synthetic/Simulated
+STU1215,17,Maharashtra,M,85.63%,Computer Science,Synthetic/Simulated
+STU1216,20,MADHYA PRADESH, Female,61.48,Mechanical Engineering,Synthetic/Simulated
+STU1217,22,jharkhand,,87.41,Statistics,Synthetic/Simulated
+STU1218,,Rajasthan,Male,72.5,Physics,Synthetic/Simulated
+STU1219,20,Bihar,MALE,80.13,Physics,Synthetic/Simulated
+STU1220,18,Telangana,male,69.55,Physics,Synthetic/Simulated
+STU1221,22,RAJASTHAN,Male,81.34,Physics,Synthetic/Simulated
+STU1222,19,Tamil Nadu,male,99.9,Mathematics,Synthetic/Simulated
+STU1223,19,Madhya Pradesh,M,79.14,Computer Science,Synthetic/Simulated
+STU1224,20,bihar,F,73.86,Civil Engineering,Synthetic/Simulated
+STU1225,18, MADHYA PRADESH ,male,75.91,Physics,Synthetic/Simulated
+STU1226,20,,FEMALE,64.78,Statistics,Synthetic/Simulated
+STU1227,,Uttar Pradesh, Male ,91.04,Physics,Synthetic/Simulated
+STU1228,20,Karnataka,male,80.82,Electronics,Synthetic/Simulated
+STU1229,20,Karnataka,female,68.56,Networking,Synthetic/Simulated
+STU1230,19,,male,,Mathematics,Synthetic/Simulated
+STU1231,18,Madhya Pradesh,male,,Mathematics,Synthetic/Simulated
+STU1232,20,Other,male,86.39,Mathematics,Synthetic/Simulated
+STU1233,19, Madhya Pradesh ,MALE,67.64,Computer Science,Synthetic/Simulated
+STU1234,21 yrs,Kerala,Male,88.02%,Physics,Synthetic/Simulated
+STU1235,18,Telangana, Male ,77.18,Statistics,Synthetic/Simulated
+STU1236,19,West Bengal,,69.63,computer science,Synthetic/Simulated
+STU1237,19,Gujarat,female,73.79,statistics,Synthetic/Simulated
+STU1238,20,TELANGANA,Male,93.74,mathematics,Synthetic/Simulated
+STU1239,20,Telangana,FEMALE,65.51,Mathematics,Synthetic/Simulated
+STU1240,21, maharashtra ,F,71.41,Computer Science,Synthetic/Simulated
+STU1241,19,andhra pradesh,Female,86.57,Computer Science,Synthetic/Simulated
+STU1242,19,Madhya Pradesh, Female,79.95,Statistics,Synthetic/Simulated
+STU1243,17,Bihar,Not Specified,70.88,Statistics,Synthetic/Simulated
+STU1244,18,Tamil Nadu,FEMALE,86.68,Computer Science,Synthetic/Simulated
+STU1245,19 yrs,Kerala,F,87.11,Mathematics,Synthetic/Simulated
+STU1246,19,Gujarat,,80.98%,Computer Science,Synthetic/Simulated
+STU1247,19,Uttar Pradesh,male,72.49,Mathematics,Synthetic/Simulated
+STU1248,19,Bihar,F,73.88%,Mathematics,Synthetic/Simulated
+STU1249,,Uttar Pradesh, Male ,80.56,Statistics,Synthetic/Simulated
+STU1250,20,BIHAR,F,66.19,Networking,Synthetic/Simulated
+STU1251,18,Gujarat, Male ,89.95%,Computer Science,Synthetic/Simulated
+STU1252,19,Andhra Pradesh,female,93.3,computer science,Synthetic/Simulated
+STU1253,20,Uttar Pradesh, Female,75.88,computer science,Synthetic/Simulated
+STU1254,20,MAHARASHTRA,FEMALE,,mathematics,Synthetic/Simulated
+STU1255,20,GUJARAT,Male,88.67,Mathematics,Synthetic/Simulated
+STU1256,18,Madhya Pradesh,FEMALE,95.6,Computer Science,Synthetic/Simulated
+STU1257,19,Uttar Pradesh,MALE,92.01,Statistics,Synthetic/Simulated
+STU1258,21,Rajasthan,,62.38%,mathematics,Synthetic/Simulated
+STU1259,19,Bihar,female,75.16,Physics,Synthetic/Simulated
+STU1260,19,Uttar Pradesh,Male,82.51%,networking,Synthetic/Simulated
+STU1261,22,West Bengal, Female,73.55,Mathematics,Synthetic/Simulated
+STU1262,18,Odisha,F,94.04,physics,Synthetic/Simulated
+STU1263,20,bihar,female,92.66,Statistics,Synthetic/Simulated
+STU1264,20, Uttar Pradesh ,Female,70.66,Networking,Synthetic/Simulated
+STU1265,18,Madhya Pradesh,FEMALE,76.54,Mathematics,Synthetic/Simulated
+STU1266,20, Maharashtra ,male,71.25,Mathematics,Synthetic/Simulated
+STU1267,19,West Bengal,,76.24,Mathematics,Synthetic/Simulated
+STU1268,20,Karnataka,female,75.97,networking,Synthetic/Simulated
+STU1269,21,Madhya Pradesh,FEMALE,86.59,Electronics,Synthetic/Simulated
+STU1270,20,Maharashtra, Male ,70.0,Mathematics,Synthetic/Simulated
+STU1271,18,Uttar Pradesh,F,54.45,Networking,Synthetic/Simulated
+STU1272,20,Uttar Pradesh, Male ,63.56,Electronics,Synthetic/Simulated
+STU1273,21, Punjab ,Male,68.75,Physics,Synthetic/Simulated
+STU1274,19 yrs,Maharashtra,,72.1,Physics,Synthetic/Simulated
+STU1275,19,Madhya Pradesh,Male,79.68,mathematics,Synthetic/Simulated
+STU1276,18, Rajasthan ,MALE,68.28,Computer Science,Synthetic/Simulated
+STU1277,20,Maharashtra, Male ,67.1,mathematics,Synthetic/Simulated
+STU1278,18, Maharashtra ,Other,69.63,Physics,Synthetic/Simulated
+STU1279,19,Rajasthan,female,67.96,Statistics,Synthetic/Simulated
+STU1280,21, Uttar Pradesh ,M,73.01,mechanical engineering,Synthetic/Simulated
+STU1281,21, Madhya Pradesh ,female,72.62%,Mathematics,Synthetic/Simulated
+STU1282,22,West Bengal,Female,84.2,Electronics,Synthetic/Simulated
+STU1283,19,Bihar,PNS,69.09,Mathematics,Synthetic/Simulated
+STU1284,18,Madhya Pradesh,female,74.78,civil engineering,Synthetic/Simulated
+STU1285,19,Odisha,Other,73.09,,Synthetic/Simulated
+STU1286,18,uttar pradesh,MALE,85.28,Mathematics,Synthetic/Simulated
+STU1287,20,Assam,MALE,76.61,Electronics,Synthetic/Simulated
+STU1288,19,haryana, Male ,87.46,Computer Science,Synthetic/Simulated
+STU1289,19,Gujarat,Male,67.63,mathematics,Synthetic/Simulated
+STU1290,18 yrs,Uttar Pradesh,Not Specified,77.56,Mathematics,Synthetic/Simulated
+STU1291,19 yrs,Kerala,MALE,,Electronics,Synthetic/Simulated
+STU1292,20,Rajasthan, Male ,66.97,Physics,Synthetic/Simulated
+STU1293,20 yrs,Maharashtra,M,77.39,mathematics,Synthetic/Simulated
+STU1294,18,Bihar, Female,93.6,Statistics,Synthetic/Simulated
+STU1295,18,Bihar,female,70.32,Computer Science,Synthetic/Simulated
+STU1296,19, Odisha ,,76.85,Electronics,Synthetic/Simulated
+STU1297,18,Karnataka,FEMALE,66.19,,Synthetic/Simulated
+STU1298,21,Odisha,FEMALE,64.87,Physics,Synthetic/Simulated
+STU1299,20,Telangana, Male ,70.91,Chemistry,Synthetic/Simulated
+STU1300,18,Tamil Nadu, Male ,73.95,Physics,Synthetic/Simulated
+STU1301,20,Bihar,Male,74.35,Mathematics,Synthetic/Simulated
+STU1302,19,Delhi,male,75.97,Mechanical Engineering,Synthetic/Simulated
+STU1303,18,Punjab, Male ,63.17,Statistics,Synthetic/Simulated
+STU1304,19,Kerala,M,72.37,statistics,Synthetic/Simulated
+STU1305,17,Telangana,Male,82.52,Statistics,Synthetic/Simulated
+STU1306,19,WEST BENGAL, Female,65.78,Mathematics,Synthetic/Simulated
+STU1307,20,Uttar Pradesh,MALE,74.8,Mechanical Engineering,Synthetic/Simulated
+STU1308,21,Odisha, Female,80.64%,Civil Engineering,Synthetic/Simulated
+STU1309,19,Madhya Pradesh,FEMALE,70.96,Computer Science,Synthetic/Simulated
+STU1310,20,Uttar Pradesh,FEMALE,81.07,networking,Synthetic/Simulated
+STU1311,18,Rajasthan,male,64.31,Physics,Synthetic/Simulated
+STU1312,19, West Bengal ,male,86.0,Mathematics,Synthetic/Simulated
+STU1313,18,West Bengal, Female,81.29,Physics,Synthetic/Simulated
+STU1314,19, Maharashtra , Male ,78.5,physics,Synthetic/Simulated
+STU1315,18,Madhya Pradesh,F,88.12,Physics,Synthetic/Simulated
+STU1316,21,uttar pradesh,Female,75.04,Chemistry,Synthetic/Simulated
+STU1317,21,Rajasthan,Female,72.44%,Mathematics,Synthetic/Simulated
+STU1318,19,Madhya Pradesh, Female,90.35,Computer Science,Synthetic/Simulated
+STU1319,20, Karnataka ,male,94.57,Chemistry,Synthetic/Simulated
+STU1320,18,UTTAR PRADESH,F,71.76%,mathematics,Synthetic/Simulated
+STU1321,20,Rajasthan,Female,76.98,Mathematics,Synthetic/Simulated
+STU1322,,Uttar Pradesh, Female,87.41,Physics,Synthetic/Simulated
+STU1323,18,Bihar,male,77.3,Computer Science,Synthetic/Simulated
+STU1324,20 yrs,Odisha,PNS,83.35,Statistics,Synthetic/Simulated
+STU1325,19,Maharashtra,male,,,Synthetic/Simulated
+STU1326,19,Rajasthan,MALE,,Computer Science,Synthetic/Simulated
+STU1327,19, KARNATAKA ,male,81.77,,Synthetic/Simulated
+STU1328,18,madhya pradesh, Female,77.94,Physics,Synthetic/Simulated
+STU1329,18,Kerala,,67.05,computer science,Synthetic/Simulated
+STU1330,19,assam, Male ,69.09,Mathematics,Synthetic/Simulated
+STU1331,19,West Bengal,female,72.13,Statistics,Synthetic/Simulated
+STU1332,,Punjab,M,86.36,Electronics,Synthetic/Simulated
+STU1333,19,Gujarat,Male,86.65,Mechanical Engineering,Synthetic/Simulated
+STU1334,, Gujarat ,Female,84.75,Mathematics,Synthetic/Simulated
+STU1335,20,Madhya Pradesh, Male ,81.96,Mathematics,Synthetic/Simulated
+STU1336,20,Madhya Pradesh,F,81.72,Mathematics,Synthetic/Simulated
+STU1337,19,Uttar Pradesh, Female,,Mathematics,Synthetic/Simulated
+STU1338,19,GUJARAT,M,81.67,Mechanical Engineering,Synthetic/Simulated
+STU1339,19,Bihar,M,82.28%,,Synthetic/Simulated
+STU1340,19,Maharashtra, Female,65.36,Electronics,Synthetic/Simulated
+STU1341,18,Tamil Nadu,F,70.89%,Mathematics,Synthetic/Simulated
+STU1342,17,Maharashtra,female,,statistics,Synthetic/Simulated
+STU1343,20,uttar pradesh,F,87.96%,,Synthetic/Simulated
+STU1344,18,maharashtra,F,92.89%,Physics,Synthetic/Simulated
+STU1345,19,Karnataka, Female,58.48%,Computer Science,Synthetic/Simulated
+STU1346,19,Bihar,Male,92.08,Physics,Synthetic/Simulated
+STU1347,19,Telangana,MALE,78.78,Mathematics,Synthetic/Simulated
+STU1348,20,Madhya Pradesh,M,87.11,Statistics,Synthetic/Simulated
+STU1349,20,Gujarat,MALE,82.56,Mathematics,Synthetic/Simulated
+STU1350,17,Assam,M,90.96,Mathematics,Synthetic/Simulated
+STU1351,20,MADHYA PRADESH, Male ,79.89,Computer Science,Synthetic/Simulated
+STU1352,,Gujarat, Male ,65.73,Computer Science,Synthetic/Simulated
+STU1353,19, MADHYA PRADESH ,M,77.05,Statistics,Synthetic/Simulated
+STU1354,20,Maharashtra, Male ,82.64%,Mathematics,Synthetic/Simulated
+STU1355,20,Gujarat, Male ,76.06,Mathematics,Synthetic/Simulated
+STU1356,19, Maharashtra ,M,83.92,Physics,Synthetic/Simulated
+STU1357,22, Bihar ,Female,77.41,Physics,Synthetic/Simulated
+STU1358,20,Haryana,F,72.64,Physics,Synthetic/Simulated
+STU1359,19,,Female,68.23,Biology,Synthetic/Simulated
+STU1360,18,madhya pradesh, Female,74.47,Mathematics,Synthetic/Simulated
+STU1361,18,Kerala,Female,79.84,Mathematics,Synthetic/Simulated
+STU1362,19,Gujarat,,60.37,Electronics,Synthetic/Simulated
+STU1363,19,Jharkhand,Female,70.98,Physics,Synthetic/Simulated
+STU1364,19,UTTAR PRADESH,Male,60.03,Computer Science,Synthetic/Simulated
+STU1365,20,TAMIL NADU,F,72.45,Physics,Synthetic/Simulated
+STU1366,18, haryana ,Female,88.78,mechanical engineering,Synthetic/Simulated
+STU1367,20,Maharashtra, Female,67.32,mathematics,Synthetic/Simulated
+STU1368,20,Andhra Pradesh,F,84.33,Physics,Synthetic/Simulated
+STU1369,20,Tamil Nadu,Male,,physics,Synthetic/Simulated
+STU1370,20,Andhra Pradesh,M,91.08,mathematics,Synthetic/Simulated
+STU1371,21, Maharashtra ,FEMALE,79.2,Mathematics,Synthetic/Simulated
+STU1372,18,,M,85.73,computer science,Synthetic/Simulated
+STU1373,20,maharashtra,FEMALE,65.67,Electronics,Synthetic/Simulated
+STU1374,21,Assam,MALE,63.84,Statistics,Synthetic/Simulated
+STU1375,19,Madhya Pradesh,M,78.26,Computer Science,Synthetic/Simulated
+STU1376,18, Madhya Pradesh , Male ,81.59,Computer Science,Synthetic/Simulated
+STU1377,22,Jharkhand, Female,87.85,Civil Engineering,Synthetic/Simulated
+STU1378,18,Uttar Pradesh, Male ,72.88%,Mathematics,Synthetic/Simulated
+STU1379,19,West Bengal,male,79.74,Mathematics,Synthetic/Simulated
+STU1380,18,Uttar Pradesh,MALE,79.43%,Electronics,Synthetic/Simulated
+STU1381,19,Tamil Nadu,F,76.82,Mathematics,Synthetic/Simulated
+STU1382,19,maharashtra, Male ,77.35,Mathematics,Synthetic/Simulated
+STU1383,19, GUJARAT , Female,70.31%,Mathematics,Synthetic/Simulated
+STU1384,21,BIHAR,F,80.52,Networking,Synthetic/Simulated
+STU1385,19,Uttar Pradesh,MALE,79.76,,Synthetic/Simulated
+STU1386,19,UTTAR PRADESH,F,74.04,Computer Science,Synthetic/Simulated
+STU1387,21,Maharashtra,female,83.99,biology,Synthetic/Simulated
+STU1388,20,Karnataka,male,87.25%,Mathematics,Synthetic/Simulated
+STU1389,18,Maharashtra,M,84.1,Computer Science,Synthetic/Simulated
+STU1390,17,Uttar Pradesh,PNS,68.62%,Physics,Synthetic/Simulated
+STU1391,19,Uttar Pradesh,MALE,78.9,Mathematics,Synthetic/Simulated
+STU1392,20, gujarat , Male ,69.8,Computer Science,Synthetic/Simulated
+STU1393,19,Karnataka,male,78.87,Mathematics,Synthetic/Simulated
+STU1394,18,Gujarat,female,69.83,Physics,Synthetic/Simulated
+STU1395,20,Odisha,FEMALE,89.49,Statistics,Synthetic/Simulated
+STU1396,20 yrs,Karnataka,male,85.05%,computer science,Synthetic/Simulated
+STU1397,19, Kerala ,female,,Mechanical Engineering,Synthetic/Simulated
+STU1398,20,karnataka,FEMALE,87.47,Computer Science,Synthetic/Simulated
+STU1399,20,MAHARASHTRA,M,75.56,Mechanical Engineering,Synthetic/Simulated
+STU1400,20,delhi, Female,,electronics,Synthetic/Simulated
+STU1401,20,ANDHRA PRADESH, Female,93.68,Physics,Synthetic/Simulated
+STU1402,20,West Bengal,male,76.51,mathematics,Synthetic/Simulated
+STU1403,19,MAHARASHTRA, Female,65.81,mathematics,Synthetic/Simulated
+STU1404,19,Maharashtra,M,87.07,Mathematics,Synthetic/Simulated
+STU1405,20,Tamil Nadu,female,79.29,Mathematics,Synthetic/Simulated
+STU1406,19,Gujarat, Male ,91.55,Mathematics,Synthetic/Simulated
+STU1407,19,Karnataka,Female,80.19,Mathematics,Synthetic/Simulated
+STU1408,18,,Male,77.82,Physics,Synthetic/Simulated
+STU1409,20, Bihar ,Female,91.74,Statistics,Synthetic/Simulated
+STU1410,20, Maharashtra ,Female,64.15%,Biology,Synthetic/Simulated
+STU1411,19, Maharashtra ,Male,72.73,Statistics,Synthetic/Simulated
+STU1412,19,Madhya Pradesh,female,70.01,Networking,Synthetic/Simulated
+STU1413,18, Andhra Pradesh ,MALE,58.24,statistics,Synthetic/Simulated
+STU1414,21,Bihar,FEMALE,85.86,,Synthetic/Simulated
+STU1415,20,PUNJAB,female,72.98,Mathematics,Synthetic/Simulated
+STU1416,19, Telangana ,female,86.15,Statistics,Synthetic/Simulated
+STU1417,19,Telangana,M,81.5,mathematics,Synthetic/Simulated
+STU1418,20,Bihar,FEMALE,,Physics,Synthetic/Simulated
+STU1419,19,Andhra Pradesh,Female,73.9%,Mathematics,Synthetic/Simulated
+STU1420,22,Punjab,male,71.12,Networking,Synthetic/Simulated
+STU1421,18,Karnataka,Female,78.81,Biology,Synthetic/Simulated
+STU1422,18,Madhya Pradesh,MALE,86.27%,Electronics,Synthetic/Simulated
+STU1423,19,Tamil Nadu,prefer not to say,77.55,Physics,Synthetic/Simulated
+STU1424,18,Maharashtra, Male ,71.68,Physics,Synthetic/Simulated
+STU1425,19,Madhya Pradesh, Male ,67.21,Computer Science,Synthetic/Simulated
+STU1426,20,Karnataka,female,79.84,Electronics,Synthetic/Simulated
+STU1427,18,kerala,Other,73.01%,,Synthetic/Simulated
+STU1428,19,Maharashtra,M,77.35,Physics,Synthetic/Simulated
+STU1429,20,Madhya Pradesh,Female,75.85,Computer Science,Synthetic/Simulated
+STU1430,20, JHARKHAND ,male,74.0,Physics,Synthetic/Simulated
+STU1431,19,Maharashtra,M,,Mathematics,Synthetic/Simulated
+STU1432,18,Madhya Pradesh,Female,82.99,Civil Engineering,Synthetic/Simulated
+STU1433,19,Karnataka,FEMALE,95.69,Computer Science,Synthetic/Simulated
+STU1434,19,Kerala, Male ,,Mathematics,Synthetic/Simulated
+STU1435,20,BIHAR,M,92.34%,Statistics,Synthetic/Simulated
+STU1436,19,Bihar,Male,70.63,networking,Synthetic/Simulated
+STU1437,18, Uttar Pradesh ,female,63.59,Mathematics,Synthetic/Simulated
+STU1438,20, Uttar Pradesh ,Female,77.87,Physics,Synthetic/Simulated
+STU1439,19,telangana,female,85.72%,Computer Science,Synthetic/Simulated
+STU1440,18,KERALA, Female,84.31%,Mathematics,Synthetic/Simulated
+STU1441,19,Uttar Pradesh, Male ,88.9%,Statistics,Synthetic/Simulated
+STU1442,21,Uttar Pradesh,Female,55.17,Computer Science,Synthetic/Simulated
+STU1443,20, Uttar Pradesh ,Female,89.28%,Physics,Synthetic/Simulated
+STU1444,19,Madhya Pradesh,male,81.02,Computer Science,Synthetic/Simulated
+STU1445,20,Uttar Pradesh,female,64.1,Computer Science,Synthetic/Simulated
+STU1446,19,Madhya Pradesh,F,84.51,Mechanical Engineering,Synthetic/Simulated
+STU1447,,andhra pradesh,M,79.53%,Mathematics,Synthetic/Simulated
+STU1448,19,Uttar Pradesh,F,81.43,Mechanical Engineering,Synthetic/Simulated
+STU1449,18,Karnataka,Male,86.99,Physics,Synthetic/Simulated
+STU1450,19,Bihar,F,81.87,Computer Science,Synthetic/Simulated
+STU1451,21 yrs,Kerala,Female,64.74%,Computer Science,Synthetic/Simulated
+STU1452,18,Assam, Male ,76.71,Physics,Synthetic/Simulated
+STU1453,20, Rajasthan ,FEMALE,63.44,Statistics,Synthetic/Simulated
+STU1454,20 yrs,Madhya Pradesh, Male ,83.84,Networking,Synthetic/Simulated
+STU1455,19,Telangana,Female,90.58,Statistics,Synthetic/Simulated
+STU1456,18,Madhya Pradesh,Male,66.83%,Physics,Synthetic/Simulated
+STU1457,18,Uttar Pradesh,FEMALE,71.96%,Computer Science,Synthetic/Simulated
+STU1458,18, Madhya Pradesh ,male,70.06,Physics,Synthetic/Simulated
+STU1459,19,Jharkhand,male,73.91,Networking,Synthetic/Simulated
+STU1460,22,Madhya Pradesh,male,81.71,Mathematics,Synthetic/Simulated
+STU1461,20,Bihar,F,74.01%,Statistics,Synthetic/Simulated
+STU1462,17,Gujarat,male,,mathematics,Synthetic/Simulated
+STU1463,18,Tamil Nadu,M,87.59,Mathematics,Synthetic/Simulated
+STU1464,18,Uttar Pradesh,F,87.92,Computer Science,Synthetic/Simulated
+STU1465,22, odisha ,male,67.94,Civil Engineering,Synthetic/Simulated
+STU1466,18,Telangana,female,90.47,mathematics,Synthetic/Simulated
+STU1467,18,gujarat,FEMALE,91.19,Physics,Synthetic/Simulated
+STU1468,19,Rajasthan,MALE,91.97,Mathematics,Synthetic/Simulated
+STU1469,19,Andhra Pradesh,F,,Biology,Synthetic/Simulated
+STU1470,18,Telangana,FEMALE,71.23,Computer Science,Synthetic/Simulated
+STU1471,20,Rajasthan,M,69.14,Mathematics,Synthetic/Simulated
+STU1472,18,RAJASTHAN,Male,68.08,mathematics,Synthetic/Simulated
+STU1473,17, Madhya Pradesh ,F,,Computer Science,Synthetic/Simulated
+STU1474,18 yrs,Madhya Pradesh,F,85.63,Electronics,Synthetic/Simulated
+STU1475,19 yrs,Madhya Pradesh,FEMALE,89.76,Mechanical Engineering,Synthetic/Simulated
+STU1476,22,Madhya Pradesh,Male,73.63,mechanical engineering,Synthetic/Simulated
+STU1477,19,Maharashtra, Male ,77.65,Physics,Synthetic/Simulated
+STU1478,20,Odisha, Male ,77.06,mathematics,Synthetic/Simulated
+STU1479,19,Andhra Pradesh, Male ,72.28,Electronics,Synthetic/Simulated
+STU1480,20,KERALA,Male,84.62,Mathematics,Synthetic/Simulated
+STU1481,21,Tamil Nadu,female,81.27,,Synthetic/Simulated
+STU1482,19,tamil nadu,Female,79.28,Physics,Synthetic/Simulated
+STU1483,22, Maharashtra ,FEMALE,81.22,Physics,Synthetic/Simulated
+STU1484,19 yrs,KARNATAKA,F,,Computer Science,Synthetic/Simulated
+STU1485,20,Uttar Pradesh,F,83.45,civil engineering,Synthetic/Simulated
+STU1486,18,Bihar,MALE,70.45,Physics,Synthetic/Simulated
+STU1487,20,Punjab,FEMALE,86.07,Networking,Synthetic/Simulated
+STU1488,19 yrs,Odisha,F,80.3,Physics,Synthetic/Simulated
+STU1489,21,Uttar Pradesh,male,74.09,mathematics,Synthetic/Simulated
+STU1490,21,Telangana,prefer not to say,80.11,mathematics,Synthetic/Simulated
+STU1491,19, Madhya Pradesh ,female,81.1%,physics,Synthetic/Simulated
+STU1492,21,Madhya Pradesh,male,87.74,Computer Science,Synthetic/Simulated
+STU1493,21,Madhya Pradesh,MALE,,Civil Engineering,Synthetic/Simulated
+STU1494,19, Maharashtra ,F,89.92%,Statistics,Synthetic/Simulated
+STU1495,18,Karnataka,M,78.21,Mathematics,Synthetic/Simulated
+STU1496,18, Rajasthan ,F,73.44,Civil Engineering,Synthetic/Simulated
+STU1497,18,Madhya Pradesh,Female,73.17,,Synthetic/Simulated
+STU1498,18,DELHI,Female,68.99%,physics,Synthetic/Simulated
+STU1499,22,Bihar, Female,62.33,Mathematics,Synthetic/Simulated
+STU1500,18,Rajasthan,Male,84.1,Mathematics,Synthetic/Simulated
+STU1501,20,Bihar,male,95.83,Civil Engineering,Synthetic/Simulated
+STU1502,19, Bihar ,female,63.44,Mathematics,Synthetic/Simulated
+STU1503,19 yrs,,male,69.45,Mathematics,Synthetic/Simulated
+STU1504,18,Tamil Nadu,female,84.76%,Mathematics,Synthetic/Simulated
+STU1505,19,Jharkhand, Female,77.59%,Computer Science,Synthetic/Simulated
+STU1506,19,Uttar Pradesh,male,85.51%,Physics,Synthetic/Simulated
+STU1507,19,Bihar,FEMALE,77.08,biotechnology,Synthetic/Simulated
+STU1508,18,Madhya Pradesh,MALE,72.77,Physics,Synthetic/Simulated
+STU1509,20,Odisha,FEMALE,75.97,mathematics,Synthetic/Simulated
+STU1510,18, Uttar Pradesh ,Male,56.56,biology,Synthetic/Simulated
+STU1511,19,Uttar Pradesh,F,67.71,Computer Science,Synthetic/Simulated
+STU1512,19,Other, Female,86.53,Physics,Synthetic/Simulated
+STU1513,18 yrs,West Bengal,MALE,88.73,Physics,Synthetic/Simulated
+STU1514,,maharashtra,MALE,90.66%,Biotechnology,Synthetic/Simulated
+STU1515,18,Uttar Pradesh,female,81.97,mathematics,Synthetic/Simulated
+STU1516,21,Rajasthan,MALE,57.7,Mathematics,Synthetic/Simulated
+STU1517,,Delhi,female,72.28,,Synthetic/Simulated
+STU1518,19, Gujarat ,female,89.92%,Mathematics,Synthetic/Simulated
+STU1519,19, Uttar Pradesh ,F,92.61,Physics,Synthetic/Simulated
+STU1520,18,West Bengal,Male,90.26%,Physics,Synthetic/Simulated
+STU1521,21,Rajasthan,male,75.87,Mathematics,Synthetic/Simulated
+STU1522,19,madhya pradesh,male,66.24,mathematics,Synthetic/Simulated
+STU1523,18, Odisha ,M,77.63,Computer Science,Synthetic/Simulated
+STU1524,19,Madhya Pradesh,female,78.13,computer science,Synthetic/Simulated
+STU1525,18,Jharkhand, Female,92.09%,Biotechnology,Synthetic/Simulated
+STU1526,19,Andhra Pradesh,Female,80.05,Computer Science,Synthetic/Simulated
+STU1527,19,Madhya Pradesh, Male ,78.15,computer science,Synthetic/Simulated
+STU1528,18,KARNATAKA,FEMALE,78.66,Mathematics,Synthetic/Simulated
+STU1529,20, Telangana ,Male,81.6,Mathematics,Synthetic/Simulated
+STU1530,,West Bengal,MALE,83.64,Mathematics,Synthetic/Simulated
+STU1531,19,west bengal,male,71.48,statistics,Synthetic/Simulated
+STU1532,19,Madhya Pradesh,F,68.48,Computer Science,Synthetic/Simulated
+STU1533,21 yrs,Madhya Pradesh, Female,90.34%,Mechanical Engineering,Synthetic/Simulated
+STU1534,19,Karnataka,,63.23%,Biology,Synthetic/Simulated
+STU1535,21, Madhya Pradesh ,male,92.74,Physics,Synthetic/Simulated
+STU1536,19,uttar pradesh, Male ,60.8%,Physics,Synthetic/Simulated
+STU1537,20,Bihar, Male ,72.74,Statistics,Synthetic/Simulated
+STU1538,18,Maharashtra,MALE,86.75,Chemistry,Synthetic/Simulated
+STU1539,20,Andhra Pradesh,female,78.0%,mathematics,Synthetic/Simulated
+STU1540,18,Andhra Pradesh,M,66.15,Physics,Synthetic/Simulated
+STU1541,22,Kerala,FEMALE,81.84,Statistics,Synthetic/Simulated
+STU1542,21,Madhya Pradesh,Other,78.6,Mathematics,Synthetic/Simulated
+STU1543,19, Gujarat , Female,76.06,statistics,Synthetic/Simulated
+STU1544,19,Kerala, Female,72.38%,Mathematics,Synthetic/Simulated
+STU1545,19,,Female,77.69,Electronics,Synthetic/Simulated
+STU1546,18,Karnataka,male,72.76,Electronics,Synthetic/Simulated
+STU1547,20,West Bengal,Prefer not to say,,mathematics,Synthetic/Simulated
+STU1548,20,rajasthan,F,,Computer Science,Synthetic/Simulated
+STU1549,19,Uttar Pradesh,FEMALE,74.64,Statistics,Synthetic/Simulated
+STU1550,18,TAMIL NADU, Female,73.13,Mathematics,Synthetic/Simulated
+STU1551,21, Maharashtra ,,93.99,Physics,Synthetic/Simulated
+STU1552,18,Odisha, Male ,63.25,Electronics,Synthetic/Simulated
+STU1553,19,West Bengal,Female,81.23,Mathematics,Synthetic/Simulated
+STU1554,18,Madhya Pradesh,Male,75.85,Mathematics,Synthetic/Simulated
+STU1555,18, KARNATAKA ,MALE,65.19,mathematics,Synthetic/Simulated
+STU1556,17 yrs,Gujarat,female,70.63,Computer Science,Synthetic/Simulated
+STU1557,19 yrs, maharashtra ,male,80.85%,computer science,Synthetic/Simulated
+STU1558,,Assam,Not Specified,70.22%,Physics,Synthetic/Simulated
+STU1559,19,karnataka,Male,80.34,Physics,Synthetic/Simulated
+STU1560,20,WEST BENGAL,Male,93.56,Computer Science,Synthetic/Simulated
+STU1561,20,KERALA,Female,79.54%,Mathematics,Synthetic/Simulated
+STU1562,18,Bihar, Female,64.92,Mathematics,Synthetic/Simulated
+STU1563,18,Gujarat,M,70.38,Mathematics,Synthetic/Simulated
+STU1564,19,Maharashtra,Female,75.43,,Synthetic/Simulated
+STU1565,,Maharashtra,M,74.83,Mathematics,Synthetic/Simulated
+STU1566,19,gujarat,M,79.37,Physics,Synthetic/Simulated
+STU1567,18,Gujarat,female,80.81,mathematics,Synthetic/Simulated
+STU1568,20,Telangana,FEMALE,93.57,Computer Science,Synthetic/Simulated
+STU1569,18 yrs,Gujarat, Female,77.97,Electronics,Synthetic/Simulated
+STU1570,19,West Bengal,M,67.63,Electronics,Synthetic/Simulated
+STU1571,18,Kerala, Female,,Physics,Synthetic/Simulated
+STU1572,20,other,female,89.37,physics,Synthetic/Simulated
+STU1573,19,Uttar Pradesh,Male,80.09,Mathematics,Synthetic/Simulated
+STU1574,20,Chhattisgarh,M,75.78,statistics,Synthetic/Simulated
+STU1575,18,Andhra Pradesh,MALE,83.6,Mathematics,Synthetic/Simulated
+STU1576,19,MADHYA PRADESH,,76.1,mathematics,Synthetic/Simulated
+STU1577,18,Uttar Pradesh, Female,59.5,Mathematics,Synthetic/Simulated
+STU1578,20, Maharashtra ,prefer not to say,83.07,Statistics,Synthetic/Simulated
+STU1579,18,Tamil Nadu,Male,86.03,Mathematics,Synthetic/Simulated
+STU1580,18,Bihar, Female,90.97,Computer Science,Synthetic/Simulated
+STU1581,20,BIHAR,FEMALE,71.42%,Mathematics,Synthetic/Simulated
+STU1582,18, Telangana ,F,80.04,Statistics,Synthetic/Simulated
+STU1583,18,UTTAR PRADESH,MALE,80.23,Electronics,Synthetic/Simulated
+STU1584,20,Rajasthan, Male ,78.77%,Mathematics,Synthetic/Simulated
+STU1585,20,Odisha, Male ,79.03,Mathematics,Synthetic/Simulated
+STU1586,20,Delhi,MALE,78.33,Networking,Synthetic/Simulated
+STU1587,19,Telangana,MALE,79.91,Mathematics,Synthetic/Simulated
+STU1588,19,Maharashtra,MALE,84.67,physics,Synthetic/Simulated
+STU1589,20, Madhya Pradesh ,Male,88.98,Computer Science,Synthetic/Simulated
+STU1590,18,Maharashtra, Male ,71.19%,Mathematics,Synthetic/Simulated
+STU1591,20,GUJARAT,female,76.45,Computer Science,Synthetic/Simulated
+STU1592,18, Uttar Pradesh ,Male,74.2,Physics,Synthetic/Simulated
+STU1593,21,Chhattisgarh,Male,72.91,Networking,Synthetic/Simulated
+STU1594,19,Karnataka,Female,63.46,Electronics,Synthetic/Simulated
+STU1595,19,Gujarat,male,78.22,Statistics,Synthetic/Simulated
+STU1596,19,Uttar Pradesh,MALE,,Biology,Synthetic/Simulated
+STU1597,18,rajasthan, Female,76.6,Physics,Synthetic/Simulated
+STU1598,19,Gujarat,M,77.92%,Physics,Synthetic/Simulated
+STU1599,20,Karnataka,F,81.77,Mathematics,Synthetic/Simulated
+STU1600,19, Madhya Pradesh , Male ,90.7,statistics,Synthetic/Simulated
+STU1601,19,Kerala,male,74.22,Mathematics,Synthetic/Simulated
+STU1602,18,Maharashtra,F,67.46,Physics,Synthetic/Simulated
+STU1603,20,uttar pradesh,Female,77.19,Civil Engineering,Synthetic/Simulated
+STU1604,19,Other,F,94.95%,Computer Science,Synthetic/Simulated
+STU1605,18,Maharashtra, Female,67.55,Mathematics,Synthetic/Simulated
+STU1606,21,MADHYA PRADESH,Male,83.85,Computer Science,Synthetic/Simulated
+STU1607,19,Tamil Nadu,F,88.42,Computer Science,Synthetic/Simulated
+STU1608,,Rajasthan, Male ,56.71,Statistics,Synthetic/Simulated
+STU1609,22 yrs,Madhya Pradesh,female,81.69,Mathematics,Synthetic/Simulated
+STU1610,19 yrs,Madhya Pradesh, Female,83.43,Electronics,Synthetic/Simulated
+STU1611,21,madhya pradesh,male,75.59,Statistics,Synthetic/Simulated
+STU1612,20,bihar,Male,72.18%,Computer Science,Synthetic/Simulated
+STU1613,19,UTTAR PRADESH, Male ,72.68,Mathematics,Synthetic/Simulated
+STU1614,18,Telangana,MALE,75.04,Mathematics,Synthetic/Simulated
+STU1615,18,Odisha,MALE,75.28,mathematics,Synthetic/Simulated
+STU1616,19,Maharashtra,FEMALE,73.58,Statistics,Synthetic/Simulated
+STU1617,17,Uttar Pradesh,FEMALE,74.9,Mathematics,Synthetic/Simulated
+STU1618,18,maharashtra,PNS,88.72,Mechanical Engineering,Synthetic/Simulated
+STU1619,19,uttar pradesh,FEMALE,67.07%,,Synthetic/Simulated
+STU1620,20, uttar pradesh ,male,62.26,Computer Science,Synthetic/Simulated
+STU1621,18,ANDHRA PRADESH,,88.86,mathematics,Synthetic/Simulated
+STU1622,20 yrs, Rajasthan ,Male,76.27,Physics,Synthetic/Simulated
+STU1623,21,Bihar,MALE,74.51,Mathematics,Synthetic/Simulated
+STU1624,20 yrs,karnataka,prefer not to say,77.0,Physics,Synthetic/Simulated
+STU1625,20,Kerala,FEMALE,79.88,Physics,Synthetic/Simulated
+STU1626,20,Uttar Pradesh,Male,73.28,Chemistry,Synthetic/Simulated
+STU1627,,Maharashtra,Male,82.55,mathematics,Synthetic/Simulated
+STU1628,19,delhi,FEMALE,69.34,Physics,Synthetic/Simulated
+STU1629,21,Uttar Pradesh,male,,Physics,Synthetic/Simulated
+STU1630,20,Karnataka,Male,58.07,Mathematics,Synthetic/Simulated
+STU1631,20,Karnataka, Female,88.55,Physics,Synthetic/Simulated
+STU1632,21,Bihar, Male ,76.42,Computer Science,Synthetic/Simulated
+STU1633,18,Uttar Pradesh,,84.03,Civil Engineering,Synthetic/Simulated
+STU1634,19,,F,82.29,Chemistry,Synthetic/Simulated
+STU1635,20,BIHAR,male,82.95%,Networking,Synthetic/Simulated
+STU1636,17,Bihar,FEMALE,77.93,Electronics,Synthetic/Simulated
+STU1637,19, Telangana ,F,81.49,mathematics,Synthetic/Simulated
+STU1638,20,Karnataka,FEMALE,69.35%,Computer Science,Synthetic/Simulated
+STU1639,19,Chhattisgarh, Male ,67.46%,Mathematics,Synthetic/Simulated
+STU1640,19,Delhi,Female,77.09,biology,Synthetic/Simulated
+STU1641,20,KARNATAKA,FEMALE,71.88%,statistics,Synthetic/Simulated
+STU1642,18,madhya pradesh, Male ,90.83%,mathematics,Synthetic/Simulated
+STU1643,21,Rajasthan,female,81.38%,,Synthetic/Simulated
+STU1644,18,West Bengal,FEMALE,71.55%,Mathematics,Synthetic/Simulated
+STU1645,20, West Bengal , Female,75.56,Physics,Synthetic/Simulated
+STU1646,19, Maharashtra ,Male,79.2,physics,Synthetic/Simulated
+STU1647,19 yrs,West Bengal,MALE,77.39%,Computer Science,Synthetic/Simulated
+STU1648,19 yrs,rajasthan, Male ,80.45,Computer Science,Synthetic/Simulated
+STU1649,18,Uttar Pradesh,FEMALE,78.62,Networking,Synthetic/Simulated
+STU1650,19, Kerala ,Male,,Computer Science,Synthetic/Simulated
+STU1651,20,gujarat,MALE,58.64,Statistics,Synthetic/Simulated
+STU1652,20,Bihar,FEMALE,74.64,Statistics,Synthetic/Simulated
+STU1653,18,WEST BENGAL, Female,83.04,Mathematics,Synthetic/Simulated
+STU1654,20, West Bengal ,F,74.74,Computer Science,Synthetic/Simulated
+STU1655,20, Maharashtra ,FEMALE,89.13%,Networking,Synthetic/Simulated
+STU1656,20,West Bengal,,77.58,Mathematics,Synthetic/Simulated
+STU1657,19, Uttar Pradesh ,male,90.21,computer science,Synthetic/Simulated
+STU1658,18,tamil nadu,MALE,88.37,Computer Science,Synthetic/Simulated
+STU1659,21,Maharashtra,M,87.46%,Physics,Synthetic/Simulated
+STU1660,19, Other ,female,67.17,physics,Synthetic/Simulated
+STU1661,19,Telangana, Male ,78.15,mathematics,Synthetic/Simulated
+STU1662,20,Gujarat,MALE,89.0,Physics,Synthetic/Simulated
+STU1663,18, Uttar Pradesh , Male ,80.45%,Mathematics,Synthetic/Simulated
+STU1664,20,Rajasthan,female,82.99,Computer Science,Synthetic/Simulated
+STU1665,18 yrs,karnataka, Male ,65.51,Networking,Synthetic/Simulated
+STU1666,20,Tamil Nadu, Female,95.27,mathematics,Synthetic/Simulated
+STU1667,21,Karnataka,Male,70.88,Computer Science,Synthetic/Simulated
+STU1668,22, Jharkhand ,male,60.05,mathematics,Synthetic/Simulated
+STU1669,21,Gujarat, Male ,74.84,Computer Science,Synthetic/Simulated
+STU1670,20,Tamil Nadu,M,55.97,mathematics,Synthetic/Simulated
+STU1671,18,Gujarat,male,68.23,Computer Science,Synthetic/Simulated
+STU1672,21,TAMIL NADU,Male,99.9,Physics,Synthetic/Simulated
+STU1673,21,Gujarat,FEMALE,74.58,Statistics,Synthetic/Simulated
+STU1674,19,TELANGANA, Female,65.15%,computer science,Synthetic/Simulated
+STU1675,19,Madhya Pradesh,M,78.23,Computer Science,Synthetic/Simulated
+STU1676,18,Maharashtra,Prefer not to say,69.92,Computer Science,Synthetic/Simulated
+STU1677,19,Uttar Pradesh,male,,Chemistry,Synthetic/Simulated
+STU1678,20,Punjab, Female,69.99%,Electronics,Synthetic/Simulated
+STU1679,19, BIHAR ,Male,80.44,Statistics,Synthetic/Simulated
+STU1680,19,Rajasthan,,67.68,Mechanical Engineering,Synthetic/Simulated
+STU1681,19,Rajasthan,F,99.9,Biology,Synthetic/Simulated
+STU1682,17, Gujarat ,FEMALE,82.53,Statistics,Synthetic/Simulated
+STU1683,21,Odisha,FEMALE,76.69,biology,Synthetic/Simulated
+STU1684,19,Assam,MALE,75.36,computer science,Synthetic/Simulated
+STU1685,18,Kerala,female,73.02,Mathematics,Synthetic/Simulated
+STU1686,17, kerala ,Female,71.15,Mathematics,Synthetic/Simulated
+STU1687,20,Maharashtra,male,70.9,,Synthetic/Simulated
+STU1688,20,Uttar Pradesh,Female,93.1,Mechanical Engineering,Synthetic/Simulated
+STU1689,18,WEST BENGAL,F,73.03,Mathematics,Synthetic/Simulated
+STU1690,18,Tamil Nadu,F,58.84,Electronics,Synthetic/Simulated
+STU1691,19,Maharashtra,female,67.51%,Mathematics,Synthetic/Simulated
+STU1692,18 yrs,Telangana,male,86.35,Mathematics,Synthetic/Simulated
+STU1693,20,Maharashtra,F,75.73%,Statistics,Synthetic/Simulated
+STU1694,18,Uttar Pradesh,,76.79,Biology,Synthetic/Simulated
+STU1695,19,Uttar Pradesh,FEMALE,88.53,Physics,Synthetic/Simulated
+STU1696,19,KERALA,FEMALE,71.01,Mechanical Engineering,Synthetic/Simulated
+STU1697,19 yrs,Telangana,F,83.69%,,Synthetic/Simulated
+STU1698,19,BIHAR,FEMALE,71.99,Computer Science,Synthetic/Simulated
+STU1699,18,Andhra Pradesh, Female,83.18,Networking,Synthetic/Simulated
+STU1700,18, Andhra Pradesh , Female,74.48,biology,Synthetic/Simulated
+STU1701,18,Rajasthan,Male,75.83,networking,Synthetic/Simulated
+STU1702,18,Andhra Pradesh,female,85.38,Networking,Synthetic/Simulated
+STU1703,22,Maharashtra,FEMALE,84.73%,Statistics,Synthetic/Simulated
+STU1704,18,Bihar, Male ,76.51,Physics,Synthetic/Simulated
+STU1705,19,Madhya Pradesh,female,73.76,Mathematics,Synthetic/Simulated
+STU1706,18,Gujarat,male,,Mathematics,Synthetic/Simulated
+STU1707,20, Bihar ,Female,83.3,physics,Synthetic/Simulated
+STU1708,21,Madhya Pradesh,male,74.48,Electronics,Synthetic/Simulated
+STU1709,20,Gujarat,male,72.12,Mathematics,Synthetic/Simulated
+STU1710,,Tamil Nadu,F,87.22%,statistics,Synthetic/Simulated
+STU1711,20, Tamil Nadu ,Female,79.04,Computer Science,Synthetic/Simulated
+STU1712,19,Madhya Pradesh,Male,76.53,Mathematics,Synthetic/Simulated
+STU1713,20,Madhya Pradesh,Other,79.03,Mathematics,Synthetic/Simulated
+STU1714,20,RAJASTHAN,FEMALE,81.04,Computer Science,Synthetic/Simulated
+STU1715,17,Kerala,male,77.49,Mathematics,Synthetic/Simulated
+STU1716,19,Odisha,FEMALE,,Statistics,Synthetic/Simulated
+STU1717,18, uttar pradesh , Male ,89.33,Computer Science,Synthetic/Simulated
+STU1718,18,Karnataka,female,82.79,mathematics,Synthetic/Simulated
+STU1719,20,West Bengal, Male ,90.37,Civil Engineering,Synthetic/Simulated
+STU1720,17,,F,78.08,computer science,Synthetic/Simulated
+STU1721,20,Madhya Pradesh,male,84.21,Physics,Synthetic/Simulated
+STU1722,22, Bihar ,FEMALE,87.04,computer science,Synthetic/Simulated
+STU1723,19,West Bengal,MALE,87.17,Chemistry,Synthetic/Simulated
+STU1724,19,Uttar Pradesh,male,86.24,Mathematics,Synthetic/Simulated
+STU1725,19,Madhya Pradesh,MALE,83.68,Physics,Synthetic/Simulated
+STU1726,20,Madhya Pradesh,Not Specified,95.61,,Synthetic/Simulated
+STU1727,18,Gujarat,male,73.14,Statistics,Synthetic/Simulated
+STU1728,18,KARNATAKA,Male,76.6,Computer Science,Synthetic/Simulated
+STU1729,19,Karnataka,FEMALE,76.07,computer science,Synthetic/Simulated
+STU1730,21 yrs,Maharashtra,male,74.69,Electronics,Synthetic/Simulated
+STU1731,19,Odisha,male,60.1,Mathematics,Synthetic/Simulated
+STU1732,19 yrs,RAJASTHAN,FEMALE,90.37,Computer Science,Synthetic/Simulated
+STU1733,22,Assam,Female,68.77,Chemistry,Synthetic/Simulated
+STU1734,18,MADHYA PRADESH,MALE,79.53,statistics,Synthetic/Simulated
+STU1735,18,KERALA,male,65.2,Computer Science,Synthetic/Simulated
+STU1736,19,Chhattisgarh,Male,83.59,Biotechnology,Synthetic/Simulated
+STU1737,,, Male ,70.93,computer science,Synthetic/Simulated
+STU1738,18,andhra pradesh,F,67.78%,Statistics,Synthetic/Simulated
+STU1739,19,Rajasthan,MALE,79.75,Mathematics,Synthetic/Simulated
+STU1740,20,Karnataka,male,71.69,Computer Science,Synthetic/Simulated
+STU1741,19,WEST BENGAL,Male,72.83,mathematics,Synthetic/Simulated
+STU1742,19 yrs,Gujarat,Male,79.55,Statistics,Synthetic/Simulated
+STU1743,19,other, Male ,85.2,Physics,Synthetic/Simulated
+STU1744,20,,MALE,70.63,Networking,Synthetic/Simulated
+STU1745,20,Gujarat,Male,,Biotechnology,Synthetic/Simulated
+STU1746,20,Chhattisgarh, Male ,78.21,Physics,Synthetic/Simulated
+STU1747,,Uttar Pradesh,male,,biotechnology,Synthetic/Simulated
+STU1748,21,Maharashtra, Female,91.16,Physics,Synthetic/Simulated
+STU1749,20,Uttar Pradesh,FEMALE,68.36,Physics,Synthetic/Simulated
+STU1750,18,telangana, Male ,75.14,physics,Synthetic/Simulated
+STU1751,21,Odisha,Male,88.58,Physics,Synthetic/Simulated
+STU1752,,Madhya Pradesh,Male,95.76,Computer Science,Synthetic/Simulated
+STU1753,19,Tamil Nadu,M,69.06,Mathematics,Synthetic/Simulated
+STU1754,17,West Bengal, Female,71.35,Statistics,Synthetic/Simulated
+STU1755,19,TAMIL NADU,female,81.43,Statistics,Synthetic/Simulated
+STU1756,19, Karnataka ,MALE,72.8,Physics,Synthetic/Simulated
+STU1757,20,PUNJAB,M,71.17,Mathematics,Synthetic/Simulated
+STU1758,19,Rajasthan, Female,80.2%,mathematics,Synthetic/Simulated
+STU1759,18,Uttar Pradesh,female,91.94,Networking,Synthetic/Simulated
+STU1760,18,West Bengal,F,66.21,mathematics,Synthetic/Simulated
+STU1761,21,Gujarat,Male,91.49,Mathematics,Synthetic/Simulated
+STU1762,18, Gujarat ,MALE,72.83,Physics,Synthetic/Simulated
+STU1763,20,Madhya Pradesh, Female,81.11,,Synthetic/Simulated
+STU1764,19,MAHARASHTRA,female,92.32,Physics,Synthetic/Simulated
+STU1765,19,HARYANA,Male,80.93,computer science,Synthetic/Simulated
+STU1766,19,Madhya Pradesh,M,75.32,Mathematics,Synthetic/Simulated
+STU1767,18, West Bengal ,MALE,84.46,Mathematics,Synthetic/Simulated
+STU1768,20,Telangana,,76.44,Physics,Synthetic/Simulated
+STU1769,20,madhya pradesh,F,82.69,Mathematics,Synthetic/Simulated
+STU1770,18,uttar pradesh,female,76.16,Computer Science,Synthetic/Simulated
+STU1771,19,Rajasthan,Male,85.75%,physics,Synthetic/Simulated
+STU1772,20,Bihar, Female,65.45%,Computer Science,Synthetic/Simulated
+STU1773,20,Rajasthan,male,68.88,civil engineering,Synthetic/Simulated
+STU1774,19,Tamil Nadu,MALE,65.32,computer science,Synthetic/Simulated
+STU1775,20,Uttar Pradesh,M,77.49,Physics,Synthetic/Simulated
+STU1776,18,MADHYA PRADESH,FEMALE,64.23,Mathematics,Synthetic/Simulated
+STU1777,18,madhya pradesh,female,71.77,Biology,Synthetic/Simulated
+STU1778,20,Rajasthan,male,68.03%,Physics,Synthetic/Simulated
+STU1779,,Rajasthan, Female,91.32,Computer Science,Synthetic/Simulated
+STU1780,20, Punjab ,M,69.08,Mathematics,Synthetic/Simulated
+STU1781,18,Madhya Pradesh,,66.42,,Synthetic/Simulated
+STU1782,19, bihar ,prefer not to say,80.24%,Mathematics,Synthetic/Simulated
+STU1783,20,West Bengal,MALE,93.18,Mathematics,Synthetic/Simulated
+STU1784,18,KARNATAKA, Female,76.96%,Computer Science,Synthetic/Simulated
+STU1785,19,Tamil Nadu,MALE,77.65,Computer Science,Synthetic/Simulated
+STU1786,19,Madhya Pradesh,M,89.62,computer science,Synthetic/Simulated
+STU1787,18, Tamil Nadu , Male ,,Mathematics,Synthetic/Simulated
+STU1788,19,, Female,81.83,Biotechnology,Synthetic/Simulated
+STU1789,18,Telangana,,72.76,,Synthetic/Simulated
+STU1790,21,Maharashtra,Male,82.1,physics,Synthetic/Simulated
+STU1791,18,Karnataka, Female,65.75,statistics,Synthetic/Simulated
+STU1792,,Tamil Nadu,MALE,72.39,Mathematics,Synthetic/Simulated
+STU1793,18,Tamil Nadu,FEMALE,90.88,Mathematics,Synthetic/Simulated
+STU1794,18,maharashtra,M,89.72,Chemistry,Synthetic/Simulated
+STU1795,18,Tamil Nadu,female,81.94,Mathematics,Synthetic/Simulated
+STU1796,19,Telangana,male,60.64,mathematics,Synthetic/Simulated
+STU1797,17,Bihar,Female,67.13,Mathematics,Synthetic/Simulated
+STU1798,19,Rajasthan, Female,71.88,Mathematics,Synthetic/Simulated
+STU1799,18 yrs,Maharashtra,Female,76.45%,Mechanical Engineering,Synthetic/Simulated
+STU1800,19,Uttar Pradesh,M,66.75,Physics,Synthetic/Simulated
+STU1801,18,Telangana,F,75.78,Civil Engineering,Synthetic/Simulated
+STU1802,19,RAJASTHAN,male,93.91%,Civil Engineering,Synthetic/Simulated
+STU1803,20,,F,81.61,Computer Science,Synthetic/Simulated
+STU1804,20,Telangana, Male ,,Chemistry,Synthetic/Simulated
+STU1805,18,KARNATAKA,MALE,68.84,civil engineering,Synthetic/Simulated
+STU1806,20, Karnataka ,F,63.25,Chemistry,Synthetic/Simulated
+STU1807,20,Tamil Nadu,Female,66.95,Physics,Synthetic/Simulated
+STU1808,18,Bihar, Female,62.89,Electronics,Synthetic/Simulated
+STU1809,19,Maharashtra,M,78.68%,physics,Synthetic/Simulated
+STU1810,20, Kerala ,M,81.45%,Mathematics,Synthetic/Simulated
+STU1811,19,Assam, Female,69.31,Statistics,Synthetic/Simulated
+STU1812,19,Gujarat,M,79.33%,electronics,Synthetic/Simulated
+STU1813,19,Haryana,MALE,91.22,Biotechnology,Synthetic/Simulated
+STU1814,18,OTHER,male,95.62,Computer Science,Synthetic/Simulated
+STU1815,21,Bihar, Male ,84.93,Computer Science,Synthetic/Simulated
+STU1816,18,Karnataka,Male,76.43,Mechanical Engineering,Synthetic/Simulated
+STU1817,17,Tamil Nadu,M,84.64,Statistics,Synthetic/Simulated
+STU1818,17,UTTAR PRADESH,male,90.17%,electronics,Synthetic/Simulated
+STU1819,19,Madhya Pradesh,Female,59.93,Mathematics,Synthetic/Simulated
+STU1820,21 yrs,Gujarat,Male,91.34%,Physics,Synthetic/Simulated
+STU1821,20,Andhra Pradesh,Not Specified,73.1,Mathematics,Synthetic/Simulated
+STU1822,21, Uttar Pradesh ,,73.19,electronics,Synthetic/Simulated
+STU1823,19,Andhra Pradesh, Female,74.81,mechanical engineering,Synthetic/Simulated
+STU1824,19,Tamil Nadu,male,80.88,Mathematics,Synthetic/Simulated
+STU1825,19,Karnataka,female,68.0,Chemistry,Synthetic/Simulated
+STU1826,18,,Male,,Mathematics,Synthetic/Simulated
+STU1827,,Gujarat,FEMALE,82.73,Mathematics,Synthetic/Simulated
+STU1828,19,Maharashtra,MALE,79.97,physics,Synthetic/Simulated
+STU1829,19,Uttar Pradesh,female,81.43,Mathematics,Synthetic/Simulated
+STU1830,,Madhya Pradesh,female,,mathematics,Synthetic/Simulated
+STU1831,20,Maharashtra,F,84.24,Physics,Synthetic/Simulated
+STU1832,18,Maharashtra,Female,87.51,Computer Science,Synthetic/Simulated
+STU1833,20,West Bengal, Female,86.97,Mathematics,Synthetic/Simulated
+STU1834,20 yrs,Gujarat, Male ,81.85,Mathematics,Synthetic/Simulated
+STU1835,20,Uttar Pradesh,MALE,86.45,Computer Science,Synthetic/Simulated
+STU1836,17,Odisha,Male,85.84%,Mathematics,Synthetic/Simulated
+STU1837,18,Bihar,MALE,99.9%,physics,Synthetic/Simulated
+STU1838,19,Haryana, Female,88.96,Mathematics,Synthetic/Simulated
+STU1839,20,Tamil Nadu,male,77.2%,Statistics,Synthetic/Simulated
+STU1840,21,,Male,69.79,Chemistry,Synthetic/Simulated
+STU1841,19,Chhattisgarh,Female,75.65,physics,Synthetic/Simulated
+STU1842,18,odisha,M,75.01,Mechanical Engineering,Synthetic/Simulated
+STU1843,18,Tamil Nadu,male,82.6%,Mathematics,Synthetic/Simulated
+STU1844,19, BIHAR ,male,71.7,networking,Synthetic/Simulated
+STU1845,18,Gujarat,MALE,88.73,Computer Science,Synthetic/Simulated
+STU1846,19,Bihar,Female,65.49,Civil Engineering,Synthetic/Simulated
+STU1847,20,Telangana,MALE,63.31%,mathematics,Synthetic/Simulated
+STU1848,19 yrs, Bihar ,female,,Physics,Synthetic/Simulated
+STU1849,19, Maharashtra ,M,70.42%,Electronics,Synthetic/Simulated
+STU1850,18,Madhya Pradesh,Female,66.68%,mathematics,Synthetic/Simulated
+STU1851,18,Maharashtra,male,72.27,Mathematics,Synthetic/Simulated
+STU1852,20,Uttar Pradesh,M,71.15,Mathematics,Synthetic/Simulated
+STU1853,19 yrs,Rajasthan, Female,78.09,Physics,Synthetic/Simulated
+STU1854,18,Jharkhand,female,72.42%,Mathematics,Synthetic/Simulated
+STU1855,18, Uttar Pradesh , Female,73.15,Mathematics,Synthetic/Simulated
+STU1856,18,Uttar Pradesh,MALE,77.96,Networking,Synthetic/Simulated
+STU1857,20,Uttar Pradesh, Male ,87.13,Mathematics,Synthetic/Simulated
+STU1858,19,Bihar,female,91.24,Mathematics,Synthetic/Simulated
+STU1859,19,Tamil Nadu, Male ,79.33,mathematics,Synthetic/Simulated
+STU1860,19,Bihar,Male,80.03,Computer Science,Synthetic/Simulated
+STU1861,18 yrs,Punjab,male,76.35,Physics,Synthetic/Simulated
+STU1862,19,Other,M,82.33,Networking,Synthetic/Simulated
+STU1863,, Kerala , Female,81.51,Computer Science,Synthetic/Simulated
+STU1864,21,Andhra Pradesh,Female,89.93,Physics,Synthetic/Simulated
+STU1865,18,Rajasthan,FEMALE,61.0%,Civil Engineering,Synthetic/Simulated
+STU1866,19,West Bengal,FEMALE,75.89,Computer Science,Synthetic/Simulated
+STU1867,17,Rajasthan, Male ,81.05%,Mathematics,Synthetic/Simulated
+STU1868,,Andhra Pradesh,,77.76,Mathematics,Synthetic/Simulated
+STU1869,,MAHARASHTRA,F,69.55%,Mathematics,Synthetic/Simulated
+STU1870,21,Maharashtra,male,66.31,Mathematics,Synthetic/Simulated
+STU1871,18,Madhya Pradesh,Female,,Computer Science,Synthetic/Simulated
+STU1872,20,West Bengal, Female,71.19,Electronics,Synthetic/Simulated
+STU1873,20,,MALE,,Mathematics,Synthetic/Simulated
+STU1874,18,Madhya Pradesh,male,85.71,Networking,Synthetic/Simulated
+STU1875,18,Bihar,M,82.13,mathematics,Synthetic/Simulated
+STU1876,19,Rajasthan,FEMALE,76.96,statistics,Synthetic/Simulated
+STU1877,20,Andhra Pradesh,FEMALE,69.77%,Statistics,Synthetic/Simulated
+STU1878,20, Madhya Pradesh ,Female,76.98,Computer Science,Synthetic/Simulated
+STU1879,18,Madhya Pradesh,,88.94,mathematics,Synthetic/Simulated
+STU1880,19,Tamil Nadu,F,63.47,Mechanical Engineering,Synthetic/Simulated
+STU1881,18,WEST BENGAL, Male ,63.92,,Synthetic/Simulated
+STU1882,18,Kerala,Female,72.35,Physics,Synthetic/Simulated
+STU1883,20,West Bengal, Male ,77.76,Electronics,Synthetic/Simulated
+STU1884,19,Punjab,Female,73.53,Biotechnology,Synthetic/Simulated
+STU1885,18 yrs,Uttar Pradesh,M,83.79,Computer Science,Synthetic/Simulated
+STU1886,20,Rajasthan,Male,87.8,Mathematics,Synthetic/Simulated
+STU1887,20,Delhi,Prefer not to say,80.51,Computer Science,Synthetic/Simulated
+STU1888,20,Madhya Pradesh,Male,83.04,computer science,Synthetic/Simulated
+STU1889,18,Andhra Pradesh,male,80.45,Statistics,Synthetic/Simulated
+STU1890,21,Madhya Pradesh,female,78.09,Electronics,Synthetic/Simulated
+STU1891,19,Bihar,M,66.36,computer science,Synthetic/Simulated
+STU1892,19,Maharashtra,Male,,Statistics,Synthetic/Simulated
+STU1893,17,,M,65.84,Physics,Synthetic/Simulated
+STU1894,21,Andhra Pradesh,male,76.66,Mathematics,Synthetic/Simulated
+STU1895,19,Madhya Pradesh,Female,80.09,computer science,Synthetic/Simulated
+STU1896,20,Maharashtra, Male ,64.96,physics,Synthetic/Simulated
+STU1897,20,Rajasthan,female,78.65,Physics,Synthetic/Simulated
+STU1898,20,Uttar Pradesh,,70.12%,Mathematics,Synthetic/Simulated
+STU1899,20,Rajasthan,female,68.38,Mathematics,Synthetic/Simulated
+STU1900,21,Punjab,Male,72.37,physics,Synthetic/Simulated
+STU1901,18,Madhya Pradesh,FEMALE,67.92,Mechanical Engineering,Synthetic/Simulated
+STU1902,18, Gujarat , Male ,,Physics,Synthetic/Simulated
+STU1903,20,Gujarat, Male ,76.49,Mathematics,Synthetic/Simulated
+STU1904,19,UTTAR PRADESH,M,85.34,Mathematics,Synthetic/Simulated
+STU1905,19, Uttar Pradesh ,Female,74.01,civil engineering,Synthetic/Simulated
+STU1906,20,Karnataka,male,74.35,Mathematics,Synthetic/Simulated
+STU1907,19, tamil nadu ,,94.86,Mathematics,Synthetic/Simulated
+STU1908,20,Andhra Pradesh,Female,63.39,Mathematics,Synthetic/Simulated
+STU1909,19,Rajasthan,Male,,Computer Science,Synthetic/Simulated
+STU1910,20, West Bengal ,FEMALE,92.89%,Statistics,Synthetic/Simulated
+STU1911,18, Jharkhand ,male,84.89,,Synthetic/Simulated
+STU1912,19,Odisha,Female,,Mathematics,Synthetic/Simulated
+STU1913,21,Haryana, Male ,90.84%,Mathematics,Synthetic/Simulated
+STU1914,18,Uttar Pradesh, Female,75.1%,,Synthetic/Simulated
+STU1915,19,Delhi,Not Specified,71.65,Mathematics,Synthetic/Simulated
+STU1916,,ANDHRA PRADESH,male,74.51,Statistics,Synthetic/Simulated
+STU1917,19,Andhra Pradesh,FEMALE,72.87,Mathematics,Synthetic/Simulated
+STU1918,19, tamil nadu ,Male,69.48,biotechnology,Synthetic/Simulated
+STU1919,18,Delhi, Female,87.99,Mechanical Engineering,Synthetic/Simulated
+STU1920,21,GUJARAT,M,71.04,Mathematics,Synthetic/Simulated
+STU1921,18,Telangana,MALE,77.73,Mathematics,Synthetic/Simulated
+STU1922,19,Karnataka,M,65.01%,Statistics,Synthetic/Simulated
+STU1923,19 yrs,Telangana,F,78.28,Mathematics,Synthetic/Simulated
+STU1924,18, Telangana ,PNS,67.6,Statistics,Synthetic/Simulated
+STU1925,18,Maharashtra, Male ,67.38,statistics,Synthetic/Simulated
+STU1926,22,Rajasthan,MALE,77.02,Physics,Synthetic/Simulated
+STU1927,20,Rajasthan,F,87.51,,Synthetic/Simulated
+STU1928,18 yrs,Telangana,Female,81.96,Biology,Synthetic/Simulated
+STU1929,20,Karnataka,male,82.58,computer science,Synthetic/Simulated
+STU1930,19,Kerala,male,76.83,mathematics,Synthetic/Simulated
+STU1931,18,Andhra Pradesh, Male ,74.98,Physics,Synthetic/Simulated
+STU1932,20 yrs,west bengal,MALE,85.12,Civil Engineering,Synthetic/Simulated
+STU1933,19,Maharashtra,MALE,72.93,Mathematics,Synthetic/Simulated
+STU1934,18,Tamil Nadu,male,85.51,mathematics,Synthetic/Simulated
+STU1935,20,Jharkhand,Male,89.12,Biotechnology,Synthetic/Simulated
+STU1936,19,Tamil Nadu,female,70.43,Physics,Synthetic/Simulated
+STU1937,19,Jharkhand,male,71.75,Physics,Synthetic/Simulated
+STU1938,18,Other,FEMALE,73.09,Civil Engineering,Synthetic/Simulated
+STU1939,20, Rajasthan ,M,,Statistics,Synthetic/Simulated
+STU1940,20,,Male,73.78%,Mathematics,Synthetic/Simulated
+STU1941,21,BIHAR,MALE,89.71,Statistics,Synthetic/Simulated
+STU1942,18,Gujarat,female,68.59,Electronics,Synthetic/Simulated
+STU1943,20,Uttar Pradesh,M,89.93,Mathematics,Synthetic/Simulated
+STU1944,19,Uttar Pradesh,Female,74.1,Mathematics,Synthetic/Simulated
+STU1945,19,Maharashtra, Female,97.03%,,Synthetic/Simulated
+STU1946,18,Tamil Nadu,Male,71.86,Mathematics,Synthetic/Simulated
+STU1947,20,MAHARASHTRA,Male,76.7,Computer Science,Synthetic/Simulated
+STU1948,18,Gujarat,female,69.81,mathematics,Synthetic/Simulated
+STU1949,19,Bihar,male,71.81,Physics,Synthetic/Simulated
+STU1950,19,Gujarat, Female,90.04,,Synthetic/Simulated
+STU1951,17,Odisha, Male ,82.27,Computer Science,Synthetic/Simulated
+STU1952,22,GUJARAT, Male ,87.26,Physics,Synthetic/Simulated
+STU1953,20,Madhya Pradesh,MALE,66.16,Mathematics,Synthetic/Simulated
+STU1954,19,,MALE,83.89,Computer Science,Synthetic/Simulated
+STU1955,20,Kerala,Other,69.26%,Networking,Synthetic/Simulated
+STU1956,19,TAMIL NADU,male,65.96%,Networking,Synthetic/Simulated
+STU1957,20,Telangana,female,80.15,Mechanical Engineering,Synthetic/Simulated
+STU1958,18,MAHARASHTRA, Female,80.06,,Synthetic/Simulated
+STU1959,19,Telangana,MALE,78.48,Statistics,Synthetic/Simulated
+STU1960,19,Maharashtra,F,84.46,mathematics,Synthetic/Simulated
+STU1961,19,Bihar,MALE,85.86%,Mathematics,Synthetic/Simulated
+STU1962,19,maharashtra,female,91.23,Mathematics,Synthetic/Simulated
+STU1963,18,Telangana,MALE,67.29,Mechanical Engineering,Synthetic/Simulated
+STU1964,22,Uttar Pradesh,male,91.52,mathematics,Synthetic/Simulated
+STU1965,17,Uttar Pradesh, Male ,,Chemistry,Synthetic/Simulated
+STU1966,17,Madhya Pradesh, Male ,74.7,Physics,Synthetic/Simulated
+STU1967,19,Karnataka, Female,62.98,biotechnology,Synthetic/Simulated
+STU1968,19, UTTAR PRADESH ,M,65.55,Computer Science,Synthetic/Simulated
+STU1969,18, Bihar ,F,73.84%,Electronics,Synthetic/Simulated
+STU1970,19,Uttar Pradesh,male,,Mechanical Engineering,Synthetic/Simulated
+STU1971,20,Telangana,Male,78.15,Statistics,Synthetic/Simulated
+STU1972,,Uttar Pradesh,,72.45%,Mathematics,Synthetic/Simulated
+STU1973,22,punjab,female,71.83,Biotechnology,Synthetic/Simulated
+STU1974,19, Uttar Pradesh ,FEMALE,66.1,mathematics,Synthetic/Simulated
+STU1975,20,Madhya Pradesh,,85.87,physics,Synthetic/Simulated
+STU1976,18,uttar pradesh, Male ,77.17,Mathematics,Synthetic/Simulated
+STU1977,, Madhya Pradesh ,,96.9%,Physics,Synthetic/Simulated
+STU1978,20, GUJARAT ,male,83.65,computer science,Synthetic/Simulated
+STU1979,18, Uttar Pradesh ,Other,85.47,Biology,Synthetic/Simulated
+STU1980,18, Jharkhand , Male ,75.82,Statistics,Synthetic/Simulated
+STU1981,19,Bihar,M,68.18%,Computer Science,Synthetic/Simulated
+STU1982,17 yrs,Uttar Pradesh,FEMALE,70.14%,Physics,Synthetic/Simulated
+STU1983,22,Gujarat, Male ,65.68,Computer Science,Synthetic/Simulated
+STU1984,19,MAHARASHTRA,male,86.19,computer science,Synthetic/Simulated
+STU1985,19,MAHARASHTRA,Other,74.54,Mathematics,Synthetic/Simulated
+STU1986,21,Uttar Pradesh,FEMALE,,Networking,Synthetic/Simulated
+STU1987,20,madhya pradesh, Female,79.22,Computer Science,Synthetic/Simulated
+STU1988,20 yrs,Maharashtra,,75.36,Biology,Synthetic/Simulated
+STU1989,19,Haryana, Male ,67.47,Mathematics,Synthetic/Simulated
+STU1990,19,Tamil Nadu,F,80.71,mathematics,Synthetic/Simulated
+STU1991,19, Haryana ,MALE,76.03%,mathematics,Synthetic/Simulated
+STU1992,19,Uttar Pradesh,F,86.12,,Synthetic/Simulated
+STU1993,19,Odisha,Male,71.56,Statistics,Synthetic/Simulated
+STU1994,18,Rajasthan,Female,83.54%,Mathematics,Synthetic/Simulated
+STU1995,19,Maharashtra,F,92.77,Electronics,Synthetic/Simulated
+STU1996,19,Andhra Pradesh,FEMALE,80.45,Computer Science,Synthetic/Simulated
+STU1997,19,Madhya Pradesh,Female,85.07,statistics,Synthetic/Simulated
+STU1998,18, rajasthan ,Male,83.15%,Statistics,Synthetic/Simulated
+STU1999,19,Andhra Pradesh, Female,95.08,Statistics,Synthetic/Simulated
+STU2000,19,Tamil Nadu,male,81.34,Mathematics,Synthetic/Simulated
